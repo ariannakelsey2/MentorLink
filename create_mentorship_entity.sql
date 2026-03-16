@@ -1,0 +1,5 @@
+CREATE TABLE Mentorship(
+MentorshipID BINARY(16) PRIMARY KEY,
+SubjectID BINARY(16) NOT NULL,
+FOREIGN KEY (SubjectID) REFERENCES Subject(SubjectID)
+);
