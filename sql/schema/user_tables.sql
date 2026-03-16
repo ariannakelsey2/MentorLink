@@ -8,16 +8,20 @@ CREATE TABLE User(
 );
 
 CREATE TABLE User_Subject(
-	user_ID BINARY(16),
-	subject_ID BINARY(16),
+	user_ID BINARY(16) NOT NULL,
+	subject_ID BINARY(16) NOT NULL,
 	user_type ENUM('Sought', 'Offered') NOT NULL,
     
 PRIMARY KEY(user_ID, subject_ID, user_type),
 
 	CONSTRAINT fk_user_ID
 		FOREIGN KEY (user_ID)
-		REFERENCES User(user_ID),
+		REFERENCES User(user_ID)
+		ON DELETE CASCADE
+		ON UPDATE CASCADE,
 	CONSTRAINT fk_subject_ID
         FOREIGN KEY (subject_ID)
         REFERENCES Subject(subject_ID)
+		ON DELETE CASCADE
+		ON UPDATE CASCADE
 );
