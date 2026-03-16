@@ -1,8 +1,8 @@
 CREATE TABLE User(
 	user_ID BINARY(16) NOT NULL PRIMARY KEY
         DEFAULT (UUID_TO_BIN(UUID())),
-	first_name VARCHAR(32),
-    last_name VARCHAR(32),
+	first_name VARCHAR(32) NOT NULL,
+    last_name VARCHAR(32) NOT NULL,
     email VARCHAR(255) UNIQUE  NOT NULL,
     phone_number VARCHAR(20)
 );
