@@ -38,4 +38,4 @@ PRIMARY KEY(UserID, SubjectID, UserType),
 
 -- Added: Index to help find all users for a subject and type
 CREATE INDEX idx_usersubject_subject_type
-    ON UserSubject(SubjectID, Type);
+    ON User_Subject(SubjectID, Type);
