@@ -3,7 +3,8 @@ CREATE TABLE User(
         DEFAULT (UUID_TO_BIN(UUID())),
 	FirstName VARCHAR(32) NOT NULL,
     LastName VARCHAR(32) NOT NULL,
-    Email VARCHAR(255) UNIQUE  NOT NULL,
+	-- Fixed: Unique defined twice
+    Email VARCHAR(255) NOT NULL,
     PhoneNumber VARCHAR(20),
 	-- Fixed: Added Password column
 	Password VARCHAR(128) NOT NULL,
