@@ -7,6 +7,7 @@ CREATE TABLE Subject (
     CONSTRAINT pk_subject
         PRIMARY KEY (SubjectID),
     
+   -- Jordie: MySQL gives me a warning that this constraint is redundant because we already specified that SubjectName is unique in line 4
     CONSTRAINT uq_subject_name
         UNIQUE (SubjectName)
 
