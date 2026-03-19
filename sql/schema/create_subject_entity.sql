@@ -1,5 +1,6 @@
 CREATE TABLE Subject (
-    SubjectID BINARY(16) PRIMARY KEY DEFAULT (UUID_TO_BIN(UUID())),
+    -- Fixed: PK defined twice
+    SubjectID BINARY(16) DEFAULT (UUID_TO_BIN(UUID())),
     SubjectName VARCHAR(64) NOT NULL UNIQUE,
 
     --Fixed: Added constraints to enforce data integrity
