@@ -4,26 +4,26 @@
 -- Description:
 --     Creates Goal and Rating tables with constraints
 --     and indexes for MentorLink
+-- Added: For easy code rebuilds
+Use MentorLink;
+SET FOREIGN_KEY_CHECKS = 0;
 
+DROP TABLE IF EXISTS Goal;
+DROP TABLE IF EXISTS Rating;
 
--- 1. Create Database
+SET FOREIGN_KEY_CHECKS = 1;
 
-CREATE DATABASE IF NOT EXISTS MentorLink;
-
--- Select the database so tables are created inside it
-USE MentorLink;
 
 -- GOAL TABLE
-
 
 CREATE TABLE Goal (
 
     GoalID BINARY(16) NOT NULL
-		--Added: Forgot UUID 
+		-- Added: Forgot UUID 
 		DEFAULT (UUID_TO_BIN(UUID())),
     MentorshipID BINARY(16) NOT NULL,
     Description TEXT NOT NULL,
-	--Added: Set default to 'Set'
+	-- Added: Set default to 'Set'
     Status ENUM('Set','Achieved') NOT NULL DEFAULT 'Set',
 
     -- Primary Key
@@ -46,21 +46,20 @@ CREATE INDEX idx_goal_mentorship
 CREATE INDEX idx_goal_status
     ON Goal(Status);
 
---Added: To help with procedure 'CountAchievedGoals'
+-- Added: To help with procedure 'CountAchievedGoals'
 CREATE INDEX idx_goal_mentorship_status
     ON Goal(MentorshipID, Status);
 
 -- RATING TABLE
 
-CREATE TABLE IF NOT EXISTS Rating (
+CREATE TABLE Rating (
 
-    RatingID BINARY(16) NOT NULL
-		DEFAULT (UUID_TO_BIN(UUID())),
+    RatingID BINARY(16) NOT NULL DEFAULT (UUID_TO_BIN(UUID())),
     MentorshipID BINARY(16) NOT NULL,
     RaterUserID BINARY(16) NOT NULL,
     RatedUserID BINARY(16) NOT NULL,
     RatingValue ENUM('Poor','Neutral','Good') NOT NULL,
-	--Fixed: Added Date
+	-- Fixed: Added Date
 	-- However, will need to update Data Dictionary and ER diagram
 	RatingDate TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
 
@@ -88,10 +87,6 @@ CREATE TABLE IF NOT EXISTS Rating (
         REFERENCES User(UserID)
         ON DELETE RESTRICT
         ON UPDATE CASCADE,
-
-    -- Prevent user rating themselves
-    CONSTRAINT chk_no_self_rating
-        CHECK (RaterUserID <> RatedUserID),
         
 	-- Prevent duplicate ratings in the same mentorship
     CONSTRAINT uq_rating_once
