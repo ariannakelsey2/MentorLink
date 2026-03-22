@@ -1,23 +1,25 @@
-CREATE TABLE User(
-	UserID BINARY(16) NOT NULL
-        DEFAULT (UUID_TO_BIN(UUID())),
-	FirstName VARCHAR(32) NOT NULL,
-    LastName VARCHAR(32) NOT NULL,
-	-- Fixed: Unique defined twice
-    Email VARCHAR(255) NOT NULL,
-    PhoneNumber VARCHAR(20),
-	-- Fixed: Added Password column
-	Password VARCHAR(128) NOT NULL,
+USE MentorLink;
+SET FOREIGN_KEY_CHECKS = 0;
 
-	--Added: constraint style for consistency and readability
-	CONSTRAINT pk_user
-        PRIMARY KEY (UserID),
+DROP TABLE IF EXISTS User_Subject;
+DROP TABLE IF EXISTS User;
 
-    CONSTRAINT uq_user_email
-        UNIQUE (Email)
+SET FOREIGN_KEY_CHECKS = 1;
+
+CREATE TABLE User (
+    UserID BINARY(16) NOT NULL DEFAULT (UUID_TO_BIN(UUID())),
+    FirstName VARCHAR(32) NOT NULL,
+    LastName VARCHAR(32) NOT NULL,
+    Email VARCHAR(255) NOT NULL,
+    PhoneNumber VARCHAR(20),
+    Password VARCHAR(128) NOT NULL,
+
+    CONSTRAINT pk_user PRIMARY KEY (UserID),
+    CONSTRAINT uq_user_email UNIQUE (Email)
 );
 
-CREATE TABLE User_Subject(
+
+CREATE TABLE User_Subject (
 	UserID BINARY(16) NOT NULL,
 	SubjectID BINARY(16) NOT NULL,
 	UserType ENUM('Sought', 'Offered') NOT NULL,
@@ -38,4 +40,5 @@ PRIMARY KEY(UserID, SubjectID, UserType),
 
 -- Added: Index to help find all users for a subject and type
 CREATE INDEX idx_usersubject_subject_type
-    ON User_Subject(SubjectID, Type);
+    ON User_Subject(SubjectID, UserType);
+
