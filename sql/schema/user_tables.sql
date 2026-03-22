@@ -1,23 +1,41 @@
 CREATE TABLE User(
-	user_ID BINARY(16) NOT NULL PRIMARY KEY
+	UserID BINARY(16) NOT NULL
         DEFAULT (UUID_TO_BIN(UUID())),
-	first_name VARCHAR(32),
-    last_name VARCHAR(32),
-    email VARCHAR(255) UNIQUE  NOT NULL,
-    phone_number VARCHAR(20)
+	FirstName VARCHAR(32) NOT NULL,
+    LastName VARCHAR(32) NOT NULL,
+	-- Fixed: Unique defined twice
+    Email VARCHAR(255) NOT NULL,
+    PhoneNumber VARCHAR(20),
+	-- Fixed: Added Password column
+	Password VARCHAR(128) NOT NULL,
+
+	--Added: constraint style for consistency and readability
+	CONSTRAINT pk_user
+        PRIMARY KEY (UserID),
+
+    CONSTRAINT uq_user_email
+        UNIQUE (Email)
 );
 
 CREATE TABLE User_Subject(
-	user_ID BINARY(16),
-	subject_ID BINARY(16),
-	user_type ENUM('Sought', 'Offered') NOT NULL,
+	UserID BINARY(16) NOT NULL,
+	SubjectID BINARY(16) NOT NULL,
+	UserType ENUM('Sought', 'Offered') NOT NULL,
     
-PRIMARY KEY(user_ID, subject_ID, user_type),
+PRIMARY KEY(UserID, SubjectID, UserType),
 
 	CONSTRAINT fk_user_ID
-		FOREIGN KEY (user_ID)
-		REFERENCES User(user_ID),
+		FOREIGN KEY (UserID)
+		REFERENCES User(UserID)
+		ON DELETE CASCADE
+		ON UPDATE CASCADE,
 	CONSTRAINT fk_subject_ID
-        FOREIGN KEY (subject_ID)
-        REFERENCES Subject(subject_ID)
+        FOREIGN KEY (SubjectID)
+        REFERENCES Subject(SubjectID)
+		ON DELETE CASCADE
+		ON UPDATE CASCADE
 );
+
+-- Added: Index to help find all users for a subject and type
+CREATE INDEX idx_usersubject_subject_type
+    ON User_Subject(SubjectID, Type);

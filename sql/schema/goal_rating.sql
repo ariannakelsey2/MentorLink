@@ -16,12 +16,15 @@ USE MentorLink;
 -- GOAL TABLE
 
 
-CREATE TABLE IF NOT EXISTS Goal (
+CREATE TABLE Goal (
 
-    GoalID BINARY(16) NOT NULL,
+    GoalID BINARY(16) NOT NULL
+		--Added: Forgot UUID 
+		DEFAULT (UUID_TO_BIN(UUID())),
     MentorshipID BINARY(16) NOT NULL,
     Description TEXT NOT NULL,
-    Status ENUM('Set','Achieved') NOT NULL,
+	--Added: Set default to 'Set'
+    Status ENUM('Set','Achieved') NOT NULL DEFAULT 'Set',
 
     -- Primary Key
     CONSTRAINT pk_goal
@@ -43,16 +46,23 @@ CREATE INDEX idx_goal_mentorship
 CREATE INDEX idx_goal_status
     ON Goal(Status);
 
+--Added: To help with procedure 'CountAchievedGoals'
+CREATE INDEX idx_goal_mentorship_status
+    ON Goal(MentorshipID, Status);
 
 -- RATING TABLE
 
 CREATE TABLE IF NOT EXISTS Rating (
 
-    RatingID BINARY(16) NOT NULL,
+    RatingID BINARY(16) NOT NULL
+		DEFAULT (UUID_TO_BIN(UUID())),
     MentorshipID BINARY(16) NOT NULL,
     RaterUserID BINARY(16) NOT NULL,
     RatedUserID BINARY(16) NOT NULL,
-    RatingValue ENUM('poor','neutral','good') NOT NULL,
+    RatingValue ENUM('Poor','Neutral','Good') NOT NULL,
+	--Fixed: Added Date
+	-- However, will need to update Data Dictionary and ER diagram
+	RatingDate TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
 
     -- Primary Key
     CONSTRAINT pk_rating
@@ -103,3 +113,7 @@ CREATE INDEX idx_rating_rated
 -- Index to filter by rating value
 CREATE INDEX idx_rating_value
     ON Rating(RatingValue);
+
+-- Index by rating date
+CREATE INDEX idx_rating_date
+    ON Rating(RatingDate);
