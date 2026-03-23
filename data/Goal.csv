@@ -1,0 +1,16 @@
+GoalID,MentorshipID,Description,Status
+201,1010,Master core algebra concepts,Achieved
+202,1010,Complete five algebra practice sets,Set
+203,1111,Improve Python programming fundamentals,Achieved
+204,1111,Build a small Python project,Set
+205,1212,Edit two writing pieces for class,Achieved
+206,1212,Write a short story,Set
+207,1313,Deliver a short mock presentation,Achieved
+208,1313,Practice powerpoint skills,Set
+209,1414,Create a polished one-page resume,Achieved
+210,1515,Learn introductory SQL queries	,Set
+211,1616,Review core chemistry principles,Achieved
+212,1717,Explore introductory finance concepts,Set
+213,1818,Memorize introductory biology concepts for upcoming test,Set
+214,1919,Understand foundational psychology topics,Achieved
+215,1919,Complete a psychology reflection summary,Set

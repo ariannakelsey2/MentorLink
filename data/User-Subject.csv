@@ -1,0 +1,25 @@
+UserID,SubjectID,Type (Sought/Offered)
+1,111,Offered
+1,888,Sought
+2,333,Offered
+2,999,Sought
+3,222,Sought
+3,777,Offered
+4,444,Offered
+4,101,Sought
+5,555,Sought
+5,202,Offered
+6,666,Offered
+6,303,Sought
+7,777,Offered
+7,888,Sought
+8,999,Offered
+8,333,Sought
+9,111,Sought
+9,222,Offered
+10,444,Sought
+10,101,Offered
+11,202,Sought
+11,303,Offered
+12,555,Offered
+12,666,Sought
