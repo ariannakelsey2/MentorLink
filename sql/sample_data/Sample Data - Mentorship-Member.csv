@@ -1,0 +1,21 @@
+MentorshipID,UserID,"Role (Mentor, Mentee)"
+1010,3,Mentee
+1010,9,Mentor
+1111,9,Mentee
+1111,1,Mentor
+1212,8,Mentee
+1212,2,Mentor
+1313,2,Mentee
+1313,8,Mentor
+1414,10,Mentee
+1414,4,Mentor
+1515,4,Mentee
+1515,10,Mentor
+1616,5,Mentee
+1616,12,Mentor
+1717,11,Mentee
+1717,5,Mentor
+1818,12,Mentee
+1818,6,Mentor
+1919,6,Mentee
+1919,11,Mentor
