@@ -69,7 +69,7 @@ CREATE INDEX idx_Mentorship_Status ON Mentorship(Status);
 CREATE TABLE MentorshipMember(
   MentorshipID BINARY(16) NOT NULL,
   UserID BINARY(16) NOT NULL,
-  ROLE ENUM('Mentor', 'Mentee') NOT NULL,
+  RoleID ENUM('Mentor', 'Mentee') NOT NULL,
   CONSTRAINT pk_mentorshipmember PRIMARY KEY(MentorshipID, UserID),
   CONSTRAINT fk_mentorshipmember_mentorship
       FOREIGN KEY (MentorshipID)
@@ -81,11 +81,11 @@ CREATE TABLE MentorshipMember(
       REFERENCES User(UserID)
       ON DELETE CASCADE
       ON UPDATE CASCADE,
-  CONSTRAINT uq_mentorshipmember_role UNIQUE (MentorshipID, Role)
+  CONSTRAINT uq_mentorshipmember_role UNIQUE (MentorshipID, RoleID)
 );
 
 CREATE INDEX idx_mentorshipmember_user ON MentorshipMember(UserID);
-CREATE INDEX idx_mentorshipmember_role ON MentorshipMember(Role);
+CREATE INDEX idx_mentorshipmember_role ON MentorshipMember(RoleID);
 
 -- Session Entity
 CREATE TABLE Session (
@@ -274,10 +274,10 @@ BEGIN
     FROM Mentorship m
     INNER JOIN Subject s ON m.SubjectID = s.SubjectID
     LEFT JOIN MentorshipMember mm_mentor ON m.MentorshipID = mm_mentor.MentorshipID
-        AND mm_mentor.Role = 'Mentor'
+        AND mm_mentor.RoleID = 'Mentor'
     LEFT JOIN User mentor_u ON mm_mentor.UserID = mentor_u.UserID
     LEFT JOIN MentorshipMember mm_mentee ON m.MentorshipID = mm_mentee.MentorshipID
-        AND mm_mentee.Role = 'Mentee'
+        AND mm_mentee.RoleID = 'Mentee'
     LEFT JOIN User mentee_u ON mm_mentee.UserID = mentee_u.UserID
     LEFT JOIN (
         SELECT
@@ -367,12 +367,12 @@ SET @mentorship2 = (SELECT MentorshipID FROM Mentorship WHERE SubjectID = @physi
 SET @mentorship3 = (SELECT MentorshipID FROM Mentorship WHERE SubjectID = @cs_subject LIMIT 1);
 
 -- Insert mentorship members
-INSERT INTO MentorshipMember (MentorshipID, UserID, ROLE) VALUES (@mentorship1, @mentor1, 'Mentor');
-INSERT INTO MentorshipMember (MentorshipID, UserID, ROLE) VALUES (@mentorship1, @mentee1, 'Mentee');
-INSERT INTO MentorshipMember (MentorshipID, UserID, ROLE) VALUES (@mentorship2, @mentor2, 'Mentor');
-INSERT INTO MentorshipMember (MentorshipID, UserID, ROLE) VALUES (@mentorship2, @mentee2, 'Mentee');
-INSERT INTO MentorshipMember (MentorshipID, UserID, ROLE) VALUES (@mentorship3, @mentor1, 'Mentor');
-INSERT INTO MentorshipMember (MentorshipID, UserID, ROLE) VALUES (@mentorship3, @mentee2, 'Mentee');
+INSERT INTO MentorshipMember (MentorshipID, UserID, RoleID) VALUES (@mentorship1, @mentor1, 'Mentor');
+INSERT INTO MentorshipMember (MentorshipID, UserID, RoleID) VALUES (@mentorship1, @mentee1, 'Mentee');
+INSERT INTO MentorshipMember (MentorshipID, UserID, RoleID) VALUES (@mentorship2, @mentor2, 'Mentor');
+INSERT INTO MentorshipMember (MentorshipID, UserID, RoleID) VALUES (@mentorship2, @mentee2, 'Mentee');
+INSERT INTO MentorshipMember (MentorshipID, UserID, RoleID) VALUES (@mentorship3, @mentor1, 'Mentor');
+INSERT INTO MentorshipMember (MentorshipID, UserID, RoleID) VALUES (@mentorship3, @mentee2, 'Mentee');
 
 -- Insert sessions
 INSERT INTO Session (MentorshipID, Timestamp, InstructionType, Location, Status)
