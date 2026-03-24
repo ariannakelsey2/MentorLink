@@ -159,10 +159,10 @@ BEGIN
     FROM Mentorship m
     INNER JOIN Subject s ON m.SubjectID = s.SubjectID
     LEFT JOIN MentorshipMember mm_mentor ON m.MentorshipID = mm_mentor.MentorshipID
-        AND mm_mentor.Role = 'Mentor'
+        AND mm_mentor.RoleID = 'Mentor'
     LEFT JOIN User mentor_u ON mm_mentor.UserID = mentor_u.UserID
     LEFT JOIN MentorshipMember mm_mentee ON m.MentorshipID = mm_mentee.MentorshipID
-        AND mm_mentee.Role = 'Mentee'
+        AND mm_mentee.RoleID = 'Mentee'
     LEFT JOIN User mentee_u ON mm_mentee.UserID = mentee_u.UserID
     LEFT JOIN (
         SELECT
