@@ -54,9 +54,9 @@ BEGIN
 			ON m.MentorshipID = mm2.MentorshipID
 		WHERE m.SubjectID = v_subjectID
 			AND mm1.UserID = v_menteeID
-			AND mm1.RoleID = 'Mentee'
+			AND mm1.RoleValue = 'Mentee'
 			AND mm2.UserID = v_mentorID
-			AND mm2.RoleID = 'Mentor') 
+			AND mm2.RoleValue = 'Mentor') 
 	THEN
 
 	-- Generate mentorshipID
@@ -67,11 +67,11 @@ BEGIN
     VALUES (v_mentorshipID, v_subjectID, 'Active');
     
     -- Add mentee to MentorshipMember table
-	INSERT INTO MentorshipMember (MentorshipID, UserID, RoleID)
+	INSERT INTO MentorshipMember (MentorshipID, UserID, RoleValue)
 	VALUES (v_mentorshipID, v_menteeID, 'Mentee');
     
     -- Add mentor to MentorshipMember table
-	INSERT INTO MentorshipMember (MentorshipID, UserID, RoleID)
+	INSERT INTO MentorshipMember (MentorshipID, UserID, RoleValue)
     VALUES (v_mentorshipID, v_mentorID, 'Mentor');
     
 	END IF;

@@ -305,7 +305,7 @@ All functions properly utilize existing database indexes for optimal performance
 3. **GetMentorshipSummary**:
    - `idx_goal_mentorship_status` for goal aggregation
    - `idx_session_mentorship` for session counting
-   - `idx_mentorshipmember_role` for role-based lookups
+   - `idx_mentorshipmember_rolevalue` for rolevalue-based lookups
 4. **CountAchievedGoals**: Uses `idx_goal_mentorship_status` for efficient counting
 
 ### Query Complexity

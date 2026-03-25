@@ -1,4 +1,4 @@
-MentorshipID,UserID,"Role (Mentor, Mentee)"
+MentorshipID,UserID,"RoleValue (Mentor, Mentee)"
 1010,3,Mentee
 1010,9,Mentor
 1111,9,Mentee
