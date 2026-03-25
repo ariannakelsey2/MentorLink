@@ -36,7 +36,7 @@ BEGIN
       AND m.Status = 'Potential'
       AND mm.role_value = 'Mentee'
       AND mm.UserID = v_menteeID
-      -- Do NOT delete the one that was just activated
+      -- Do not delete the activated mentorship
       AND m.MentorshipID != p_MentorshipID;
 
 END $$
