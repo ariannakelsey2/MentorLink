@@ -52,15 +52,15 @@ CREATE INDEX idx_Mentorship_Status ON Mentorship(Status);
 CREATE TABLE MentorshipMember(
     MentorshipID INT NOT NULL,
     UserID INT NOT NULL,
-    ROLE ENUM('Mentor', 'Mentee') NOT NULL,
+    ROLEVALUE ENUM('Mentor', 'Mentee') NOT NULL,
     PRIMARY KEY(MentorshipID, UserID),
     FOREIGN KEY (MentorshipID) REFERENCES Mentorship(MentorshipID) ON DELETE CASCADE ON UPDATE CASCADE,
     FOREIGN KEY (UserID) REFERENCES User(UserID) ON DELETE CASCADE ON UPDATE CASCADE,
-    UNIQUE (MentorshipID, ROLE)
+    UNIQUE (MentorshipID, ROLEVALUE)
 );
 
 CREATE INDEX idx_mentorshipmember_user ON MentorshipMember(UserID);
-CREATE INDEX idx_mentorshipmember_role ON MentorshipMember(ROLE);
+CREATE INDEX idx_mentorshipmember_rolevalue ON MentorshipMember(ROLEVALUE);
 
 -- Session Entity
 CREATE TABLE Session (
@@ -218,10 +218,10 @@ BEGIN
     FROM Mentorship m
     INNER JOIN Subject s ON m.SubjectID = s.SubjectID
     LEFT JOIN MentorshipMember mm_mentor ON m.MentorshipID = mm_mentor.MentorshipID
-        AND mm_mentor.ROLE = 'Mentor'
+        AND mm_mentor.ROLEVALUE = 'Mentor'
     LEFT JOIN User mentor_u ON mm_mentor.UserID = mentor_u.UserID
     LEFT JOIN MentorshipMember mm_mentee ON m.MentorshipID = mm_mentee.MentorshipID
-        AND mm_mentee.ROLE = 'Mentee'
+        AND mm_mentee.ROLEVALUE = 'Mentee'
     LEFT JOIN User mentee_u ON mm_mentee.UserID = mentee_u.UserID
     LEFT JOIN (
         SELECT
