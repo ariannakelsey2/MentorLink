@@ -13,7 +13,7 @@ CREATE TABLE Mentorship(
   SubjectID BINARY(16) NOT NULL,
   -- Added: Supports Procedure EndMentorship without an actual deletion, allows for archived setting
   -- However, will need to update ER Diagram and Data Dictionary 
-  Status ENUM('Active','Ended') NOT NULL DEFAULT 'Active',
+  Status ENUM('Potential','Active','Ended') NOT NULL DEFAULT 'Potential',
 
   CONSTRAINT pk_mentorship
     PRIMARY KEY (MentorshipID),
