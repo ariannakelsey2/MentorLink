@@ -1,13 +1,13 @@
-SubjectID,SubjectName
-111,Python
-222,Algebra
-333,Creative Writing
-444,Resume Building
-555,Chemistry
-666,Biology
-777,Java
-888,Calculus
-999,Public Speaking
-101,SQL
-202,Finance
-303,Psychology
+SubjectID,SubjectName,Department
+111,Python,Computer Science
+222,Algebra,Mathematics
+333,Creative Writing,English
+444,Resume Building,Business
+555,Chemistry,Chemistry
+666,Biology,Biology
+777,Java,Computer Science
+888,Calculus,Mathematics
+999,Public Speaking,Communication & Media Studies
+101,SQL,Computer Science
+202,Finance,Accounting & Finance
+303,Psychology,Psychology
