@@ -6,6 +6,7 @@ DROP TABLE IF EXISTS User;
 
 SET FOREIGN_KEY_CHECKS = 1;
 
+-- Create User table. PK: UserID
 CREATE TABLE User (
     UserID BINARY(16) NOT NULL DEFAULT (UUID_TO_BIN(UUID())),
     FirstName VARCHAR(32) NOT NULL,
@@ -18,14 +19,16 @@ CREATE TABLE User (
     CONSTRAINT uq_user_email UNIQUE (Email)
 );
 
-
+-- Create User_Subject table.
 CREATE TABLE User_Subject (
 	UserID BINARY(16) NOT NULL,
 	SubjectID BINARY(16) NOT NULL,
 	UserType ENUM('Sought', 'Offered') NOT NULL,
-    
+ 
+	-- PK: UserID, SubjectID, UserType  
 PRIMARY KEY(UserID, SubjectID, UserType),
 
+	-- FK: UserID, SubjectID
 	CONSTRAINT fk_user_ID
 		FOREIGN KEY (UserID)
 		REFERENCES User(UserID)
