@@ -25,6 +25,7 @@ target_ids = ["History", "Philosophy", "Psychology", "Languages and Literature",
 for h in h_sub_topics:
     # placeholder for Subject ID
     subject_id = ""
+    department_name = h.get_text(strip=True)
     # skip headers that are not in the target list
     if h.get("id") not in target_ids:
         continue
@@ -40,7 +41,7 @@ for h in h_sub_topics:
                 if li.find("a"):
                     text = li.find("a").get_text(strip=True)
                     # store the tuple in the list
-                subjects.append((subject_id, text))
+                subjects.append((subject_id, text, department_name))
 # remove duplicates using set
 subjects = list(set(subjects))
 
@@ -51,13 +52,13 @@ for s in subjects:
     print(s)
 
 # create json file
-with open("/Users/hananali/Documents/user_subjects.json", mode="w", encoding="utf-8") as write_file:
+with open("/Users/hananali/Documents/research_raw.json", mode="w", encoding="utf-8") as write_file:
     json.dump(subjects, write_file)
 
 # create csv file
-with open("/Users/hananali/Documents/user_subjects.csv", mode="w", encoding="utf-8", newline="") as csv_file:
+with open("/Users/hananali/Documents/research_cleaned.csv", mode="w", encoding="utf-8", newline="") as csv_file:
     writer = csv.writer(csv_file)
-    writer.writerow(["SubjectID", "SubjectName"])
+    writer.writerow(["SubjectID", "SubjectName", "DepartmentName"])
 
     for subject in subjects:
         writer.writerow(subject)
