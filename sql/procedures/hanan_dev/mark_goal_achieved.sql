@@ -9,7 +9,7 @@ SELECT COUNT(*)
 INTO goal_count 
 FROM Goal
 WHERE GoalID = p_goal_id;
--- note: talk to team about goal alr achieved?
+
 IF goal_count = 0 THEN
 	SELECT 'Goal does not exist.' AS message;
 ELSE
