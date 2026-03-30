@@ -1,0 +1,151 @@
+The following text is LLM-generated
+
+# Course Scraper for USM Catalog
+
+This scraper extracts course names and departments from the University of Southern Maine (USM) course catalog.
+
+## Source
+
+- **URL**: https://catalog.usm.maine.edu/content.php?catoid=19&catoid=19&navoid=1022&filter[item_type]=3&filter[only_active]=1&filter[3]=1&filter[cpage]=1
+- **URL Pattern**: Uses `filter[cpage]` parameter for pagination (pages 1-16)
+- **Catalog System**: Acalog-powered course catalog with filtered course listing
+- **Data Extracted**: Course names and their associated departments
+- **Total Courses**: ~1,581 courses across 82 departments (as of last scrape)
+
+## Purpose
+
+Scrapes course information from the USM catalog to populate the MentorLink database. The scraped data is processed through SQL scripts to populate the `Subject.csv` file with course/subject information.
+
+## Dependencies
+
+Install required Python packages:
+
+```bash
+pip install requests beautifulsoup4
+```
+
+**Optional** (if bot detection is an issue):
+```bash
+pip install cloudscraper
+```
+
+## Usage
+
+Run the scraper from the `scraping/courses/` directory:
+
+```bash
+cd scraping/courses
+python scrape_courses.py
+```
+
+## Output Files
+
+1. **departments.json** - Mapping of course prefixes to department names (e.g., `{"ACC": "Accounting", "FIN": "Accounting & Finance"}`)
+   - Built by parsing the page structure and combining with fallback mappings
+   - Can be manually edited to correct department assignments
+   
+2. **courses_raw.json** - Raw scraped course data with only course names
+   - Format: `[{"CourseName": "ACC 105 - Show Me the Money"}, ...]`
+   - Only valid courses (filters out navigation links like "Course Search", "Registration")
+   
+3. **courses_cleaned.csv** - Cleaned and deduplicated CSV with two columns:
+   - `CourseName` - Full course name (e.g., "CS 101 - Introduction to Computer Science")
+   - `Department` - Department name pulled from departments.json mapping
+
+## How It Works
+
+1. **Fetch First Page**: Downloads the first page of the catalog with enhanced headers to bypass bot detection
+2. **Detect Pagination**: Analyzes the HTML to find pagination links and determine total pages (typically 16 pages)
+3. **Build Department Mapping**: 
+   - Parses the page to find department headers and their associated course prefixes
+   - Combines parsed data with fallback mappings for common course codes
+   - Saves mapping to `departments.json`
+4. **Scrape All Pages**: Loops through pages 1 to N with 1.5-second delay between requests to avoid rate limiting
+5. **Parse Courses**: Uses multiple parsing strategies to extract course information from each page:
+   - Strategy 1: Looks for `courseblock` divs (common in Acalog catalogs)
+   - Strategy 2: Searches for table-based layouts
+   - Strategy 3: Finds generic containers with course patterns
+   - Strategy 4: Extracts from course detail page links
+6. **Filter Valid Courses**: Removes non-course entries like "Course Search", "Registration", "Forward 10" (pagination links)
+7. **Deduplicate**: Removes duplicate courses across all pages based on course name
+8. **Apply Departments**: Uses the department mapping to assign departments to each course
+9. **Save Outputs**: Writes departments.json, raw JSON, and cleaned CSV files
+
+## Pagination
+
+The scraper supports multi-page scraping with automatic pagination detection:
+
+- **Pagination Detection**: Automatically finds the total number of pages by analyzing pagination links
+- **Rate Limiting**: Waits 1.5 seconds between page requests to be respectful to the server
+- **Safety Limit**: Maximum 50 pages to prevent infinite loops (configurable via `MAX_PAGES` constant)
+- **URL Pattern**: Uses `filter[cpage]=N` parameter where N is the page number (1, 2, 3, etc.)
+
+The scraper typically finds 16 pages with approximately 100 courses per page, resulting in ~1,581 total courses.
+
+## Troubleshooting
+
+### Bot Detection / Redirect Issues
+
+If the scraper gets redirected to tracking pages (tapad.com, snapchat.com):
+
+1. Install the `cloudscraper` library: `pip install cloudscraper`
+2. Visit the catalog URL in your browser first to establish a valid session
+3. Check that your IP isn't rate-limited by the site
+
+### No Courses Found
+
+If the scraper completes but finds no courses:
+
+1. Visit the URL manually and inspect the HTML structure (F12 → Elements)
+2. Look for the actual CSS classes/IDs used for course listings
+3. Update the parsing strategies in `parse_courses()` function
+4. Check the debug output for page title and body content
+
+### Unknown Departments
+
+If many courses have "Unknown" department:
+
+1. Open `departments.json` to see the current prefix-to-department mapping
+2. Identify which course prefixes are missing or incorrectly mapped
+3. Manually edit `departments.json` to add or correct mappings
+4. Re-run the scraper - it will use your updated mappings
+5. Alternatively, update the fallback_mapping dictionary in `build_department_mapping()` function
+
+**Example departmentsjson edit:**
+```json
+{
+  "NEW": "New Department Name",
+  "XYZ": "Corrected Department"
+}
+```
+
+## Next Steps
+
+After running the scraper:
+
+1. **Review outputs**:
+   - Check `departments.json` for correct prefix-to-department mappings
+   - Review `courses_cleaned.csv` for accuracy
+   - Verify no important courses were filtered out in `courses_raw.json`
+
+2. **Correct department mappings** (if needed):
+   - Manually edit `departments.json` to fix any incorrect mappings
+   - Re-run the scraper to regenerate `courses_cleaned.csv` with updated departments
+
+3. **Database import**:
+   - Run SQL scripts to populate `data/Subject.csv` from `courses_cleaned.csv`
+   - Verify course names match the format expected by the database schema
+
+4. **Periodic updates**:
+   - Re-run the scraper each semester to capture new courses
+   - Course additions/changes will be automatically detected
+
+## Notes
+
+- IDs are NOT generated by this scraper - they're assigned by SQL scripts
+- The scraper is designed to be run periodically to update course listings
+- Department mappings are parsed from the page and saved to `departments.json` for review/editing
+- The `departments.json` file can be manually edited to correct department assignments
+- Cross-listed courses (multiple departments) will appear as separate rows if they have different prefixes
+- Non-course entries (navigation links, search forms) are automatically filtered out
+
