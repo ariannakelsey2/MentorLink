@@ -53,6 +53,7 @@ Without this index MYSQL scans the Subject and User_Subject tables. Since we are
 
 ### Query 2 Output
 
-FirstName	LastName	SubjectName		UserType
-Libby		Bischof, PhD	Ancient history		Offered
+|FirstName	|LastName	|SubjectName		|UserType|
+|---------------------------------------------------|
+|Libby|		Bischof, PhD|	Ancient history|	Offered|
 
