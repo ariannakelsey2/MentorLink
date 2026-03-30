@@ -363,6 +363,6 @@ The implementation is **production-ready** and can be deployed to handle real Me
 
 - **Test Suite**: `test_functions.py` (13 test cases)
 - **SQL Test Script**: `sql/test_user_functions_sample_data.sql` (for MySQL execution)
-- **User Functions**: `sql/schema/user_functions.sql` (production code)
+- **User Functions**: `sql/procedures/cancel_session.sql`, `sql/procedures/end_mentorship.sql`, `sql/procedures/get_mentorship_summary.sql`, `sql/procedures/count_achieved_goals.sql` (production code)
 - **Sample Data**: Located in `data/` directory (CSV format)
 

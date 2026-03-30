@@ -1,0 +1,4745 @@
+[
+  {
+    "CourseName": "ACC 105 - Show Me the Money"
+  },
+  {
+    "CourseName": "ACC 110 - Financial Accounting Information for Decision Making"
+  },
+  {
+    "CourseName": "ACC 211 - Managerial Accounting Information for Decision Making"
+  },
+  {
+    "CourseName": "ACC 295 - Internship in Accounting"
+  },
+  {
+    "CourseName": "ACC 301 - Financial Reporting I"
+  },
+  {
+    "CourseName": "ACC 302 - Financial Reporting II"
+  },
+  {
+    "CourseName": "ACC 315 - Estate Planning"
+  },
+  {
+    "CourseName": "ACC 329 - Accounting Information Systems"
+  },
+  {
+    "CourseName": "ACC 395 - Internship I"
+  },
+  {
+    "CourseName": "ACC 396 - Internship II"
+  },
+  {
+    "CourseName": "ACC 405 - Cost Management Systems"
+  },
+  {
+    "CourseName": "ACC 410 - Auditing and Assurance"
+  },
+  {
+    "CourseName": "ACC 413 - Concepts and Strategies of Taxation"
+  },
+  {
+    "CourseName": "ACC 416 - Governmental and Nonprofit Accounting"
+  },
+  {
+    "CourseName": "ACC 418 - Principles of Fraud Examination"
+  },
+  {
+    "CourseName": "ACC 490 - Independent Study in Accounting"
+  },
+  {
+    "CourseName": "ACC 499 - Special Topics in Accounting"
+  },
+  {
+    "CourseName": "FIN 201 - Personal Finance"
+  },
+  {
+    "CourseName": "FIN 295 - Internship in Finance"
+  },
+  {
+    "CourseName": "FIN 299 - Special Topics in Finance"
+  },
+  {
+    "CourseName": "FIN 315 - Estate Planning"
+  },
+  {
+    "CourseName": "FIN 320 - Basic Financial Management"
+  },
+  {
+    "CourseName": "FIN 321 - Personal Financial Planning"
+  },
+  {
+    "CourseName": "FIN 323 - Financial Engineering"
+  },
+  {
+    "CourseName": "FIN 326 - Financial Modeling"
+  },
+  {
+    "CourseName": "FIN 327 - Investment Management"
+  },
+  {
+    "CourseName": "FIN 328 - Financial Markets and Institutions"
+  },
+  {
+    "CourseName": "FIN 330 - International Financial Management"
+  },
+  {
+    "CourseName": "FIN 395 - Internship I"
+  },
+  {
+    "CourseName": "FIN 396 - Internship II"
+  },
+  {
+    "CourseName": "FIN 399 - Special Topics in Finance"
+  },
+  {
+    "CourseName": "FIN 490 - Independent Study in Finance"
+  },
+  {
+    "CourseName": "AFL 001 - Leadership Laboratory"
+  },
+  {
+    "CourseName": "AFL 115 - Heritage & Values of USAF I"
+  },
+  {
+    "CourseName": "AFL 116 - Heritage & Values of USAF II"
+  },
+  {
+    "CourseName": "AFL 241 - Team and Leadership Fundamentals I"
+  },
+  {
+    "CourseName": "AFL 242 - Team and Leadership Fundamentals II"
+  },
+  {
+    "CourseName": "AFL 371 - Leading People and Effective Communication I"
+  },
+  {
+    "CourseName": "AFL 372 - Leading People and Effective Communication II"
+  },
+  {
+    "CourseName": "AFL 481 - National Security Affairs/Preparation for Active Duty I"
+  },
+  {
+    "CourseName": "AFL 482 - National Security Affairs/Preparation for Active Duty II"
+  },
+  {
+    "CourseName": "ASL 101 - Beginning American Sign Language I"
+  },
+  {
+    "CourseName": "ASL 102 - Beginning American Sign Language II"
+  },
+  {
+    "CourseName": "ASL 150 - Language Table"
+  },
+  {
+    "CourseName": "ASL 201 - Intermediate American Sign Language I"
+  },
+  {
+    "CourseName": "ASL 202 - Intermediate American Sign Language II"
+  },
+  {
+    "CourseName": "ASL 305 - Practical American Sign Language I"
+  },
+  {
+    "CourseName": "ASL 306 - Practical American Sign Language II"
+  },
+  {
+    "CourseName": "ASL 398 - Independent Study"
+  },
+  {
+    "CourseName": "ASL 401 - Advanced American Sign Language I"
+  },
+  {
+    "CourseName": "ASL 402 - Advanced American Sign Language II"
+  },
+  {
+    "CourseName": "ASL 415 - ASL Literature in ASL"
+  },
+  {
+    "CourseName": "ASL 416 - ASL Linguistics in ASL"
+  },
+  {
+    "CourseName": "ASL 418 - Women & Gender in the Deaf* World"
+  },
+  {
+    "CourseName": "ANT 101 - Anthropology: The Cultural View"
+  },
+  {
+    "CourseName": "ANT 102 - Biological Anthropology"
+  },
+  {
+    "CourseName": "ANT 103 - Introduction to Archaeology"
+  },
+  {
+    "CourseName": "ANT 104 - Archaeological Science"
+  },
+  {
+    "CourseName": "ANT 105 - Society, Environment, and Change"
+  },
+  {
+    "CourseName": "ANT 192 - Introduction to Native American and Indigenous Studies (NAIS)"
+  },
+  {
+    "CourseName": "ANT 201 - Human Origins"
+  },
+  {
+    "CourseName": "ANT 202 - Origins of Civilization"
+  },
+  {
+    "CourseName": "ANT 204 - The Gulf of Maine: Archaeology, Ecology, and Environmental Change"
+  },
+  {
+    "CourseName": "ANT 213 - Human Ecology"
+  },
+  {
+    "CourseName": "ANT 220 - Indigenous Communities of North America"
+  },
+  {
+    "CourseName": "ANT 230 - Hunters and Gatherers"
+  },
+  {
+    "CourseName": "ANT 232 - The Anthropology of Sex and Gender"
+  },
+  {
+    "CourseName": "ANT 242 - Forensic Anthropology"
+  },
+  {
+    "CourseName": "ANT 255 - Cultures of Africa"
+  },
+  {
+    "CourseName": "ANT 262 - Women, Arts & Global Tourism"
+  },
+  {
+    "CourseName": "ANT 295 - Topics in Anthropology"
+  },
+  {
+    "CourseName": "ANT 306 - Analysis of Archaeological Materials"
+  },
+  {
+    "CourseName": "ANT 315 - Ethnography: Methods, Ethics, and Practice"
+  },
+  {
+    "CourseName": "ANT 320 - Anthropology and the Museum"
+  },
+  {
+    "CourseName": "ANT 350 - International Development"
+  },
+  {
+    "CourseName": "ANT 360 - Public Archaeology"
+  },
+  {
+    "CourseName": "ANT 380 - African American Historical Archaeology"
+  },
+  {
+    "CourseName": "ANT 395 - Topics in Anthropology"
+  },
+  {
+    "CourseName": "ANT 410 - Japan: Archaeology, Environmental History and Multicultural Perspectives"
+  },
+  {
+    "CourseName": "ANT 495 - Topics in Anthropology"
+  },
+  {
+    "CourseName": "ARA 101 - Beginning Arabic I"
+  },
+  {
+    "CourseName": "ARA 102 - Beginning Arabic II"
+  },
+  {
+    "CourseName": "ARA 201 - Intermediate Arabic I"
+  },
+  {
+    "CourseName": "ART 124 - Cre8: The Art of Creativity"
+  },
+  {
+    "CourseName": "ART 130 - Clay for Everyone"
+  },
+  {
+    "CourseName": "ART 141 - Surface, Space, Time (2D)"
+  },
+  {
+    "CourseName": "ART 142 - Surface, Space, Time (3D)"
+  },
+  {
+    "CourseName": "ART 151 - Fundamentals of Perceptual Drawing"
+  },
+  {
+    "CourseName": "ART 170 - The Power of Amateur Photography"
+  },
+  {
+    "CourseName": "ART 222 - Digital Art & Design"
+  },
+  {
+    "CourseName": "ART 231 - Introduction to Ceramics I"
+  },
+  {
+    "CourseName": "ART 232 - Introduction to Ceramics II"
+  },
+  {
+    "CourseName": "ART 241 - Introduction to The Visual Book"
+  },
+  {
+    "CourseName": "ART 251 - Drawing: Media and Strategies"
+  },
+  {
+    "CourseName": "ART 261 - Introduction to Painting"
+  },
+  {
+    "CourseName": "ART 271 - Photography: Analog to Digital"
+  },
+  {
+    "CourseName": "ART 281 - Introduction to Printmaking: Intaglio and Relief"
+  },
+  {
+    "CourseName": "ART 291 - Sculpture: Additive and Subtractive Processes"
+  },
+  {
+    "CourseName": "ART 292 - Sculpture: Altered and Constructed Processes"
+  },
+  {
+    "CourseName": "ART 311 - Art and Entrepreneurship"
+  },
+  {
+    "CourseName": "ART 312 - Topics in Studio Art"
+  },
+  {
+    "CourseName": "ART 321 - Exploring Time-Based Art & Design"
+  },
+  {
+    "CourseName": "ART 332 - Intermediate Ceramics"
+  },
+  {
+    "CourseName": "ART 341 - The Visual Book II: Historical Influences on Contemporary Artists’ Books"
+  },
+  {
+    "CourseName": "ART 342 - Summer Book Arts and Print"
+  },
+  {
+    "CourseName": "ART 352 - Experimental Drawing"
+  },
+  {
+    "CourseName": "ART 361 - Intermediate Drawing and Painting: The Figure"
+  },
+  {
+    "CourseName": "ART 372 - Digital Photography"
+  },
+  {
+    "CourseName": "ART 382 - Experimental Printmaking"
+  },
+  {
+    "CourseName": "ART 393 - Topics in Sculpture"
+  },
+  {
+    "CourseName": "ART 400 - Internship in the Visual Arts"
+  },
+  {
+    "CourseName": "ART 401 - Senior Seminar in Studio Art"
+  },
+  {
+    "CourseName": "ART 407 - Advanced Problems in Art"
+  },
+  {
+    "CourseName": "ART 408 - Independent Study in Art"
+  },
+  {
+    "CourseName": "ART 412 - Topics in Studio Art"
+  },
+  {
+    "CourseName": "ART 431 - Advanced Ceramics I"
+  },
+  {
+    "CourseName": "ART 432 - Advanced Ceramics II"
+  },
+  {
+    "CourseName": "ART 441 - Advanced Studio in Book Arts"
+  },
+  {
+    "CourseName": "ART 461 - Advanced Drawing and Painting I"
+  },
+  {
+    "CourseName": "ART 462 - Advanced Drawing and Painting II"
+  },
+  {
+    "CourseName": "ART 471 - Advanced Studio in Photography and Digital Art I"
+  },
+  {
+    "CourseName": "ART 472 - Advanced Studio in Photography and Digital Art II"
+  },
+  {
+    "CourseName": "ART 481 - Advanced Printmaking I"
+  },
+  {
+    "CourseName": "ART 491 - Advanced Sculpture I"
+  },
+  {
+    "CourseName": "ART 492 - Advanced Sculpture II"
+  },
+  {
+    "CourseName": "AED 221 - Introduction to Teaching Visual and Performing Arts"
+  },
+  {
+    "CourseName": "AED 222 - Art Lab"
+  },
+  {
+    "CourseName": "AED 230 - Teaching Through the Arts"
+  },
+  {
+    "CourseName": "AED 321 - Methods of Teaching Visual and Performing Arts"
+  },
+  {
+    "CourseName": "AED 324 - Student Teaching in Art Education"
+  },
+  {
+    "CourseName": "AED 400 - Community Art Education Internship (CAED)"
+  },
+  {
+    "CourseName": "AED 421 - Seminar in Visual and Performing Arts Education"
+  },
+  {
+    "CourseName": "AED 428 - Independent Study in Art Education"
+  },
+  {
+    "CourseName": "ARH 111 - Art History: Prehistoric through Medieval"
+  },
+  {
+    "CourseName": "ARH 112 - Art History: Renaissance to the Present"
+  },
+  {
+    "CourseName": "ARH 310 - Art History: Cross-Cultural Perspectives"
+  },
+  {
+    "CourseName": "ARH 311 - Gender Identity and Modern Art"
+  },
+  {
+    "CourseName": "ARH 312 - Art as Social Action"
+  },
+  {
+    "CourseName": "ARH 318 - History of Photography"
+  },
+  {
+    "CourseName": "ARH 321 - Classical Art"
+  },
+  {
+    "CourseName": "ARH 322 - Medieval Art"
+  },
+  {
+    "CourseName": "ARH 323 - Renaissance Art"
+  },
+  {
+    "CourseName": "ARH 326 - Nineteenth-Century European Art"
+  },
+  {
+    "CourseName": "ARH 327 - Modern Art"
+  },
+  {
+    "CourseName": "ARH 328 - Art after 1945"
+  },
+  {
+    "CourseName": "ARH 412 - Topics in Art History"
+  },
+  {
+    "CourseName": "ARH 418 - Independent Study in Art History"
+  },
+  {
+    "CourseName": "AHS 101 - Career Exploration in Liberal Arts"
+  },
+  {
+    "CourseName": "AST 100 - Astronomy"
+  },
+  {
+    "CourseName": "AST 103 - Exercises and Experiments in Astronomy"
+  },
+  {
+    "CourseName": "BIO 103 - Introduction to Marine Biology"
+  },
+  {
+    "CourseName": "BIO 104 - Marine Biology Laboratory"
+  },
+  {
+    "CourseName": "BIO 105 - Biological Principles I: Cellular Biology"
+  },
+  {
+    "CourseName": "BIO 106 - Laboratory Biology"
+  },
+  {
+    "CourseName": "BIO 107 - Biological Principles II: Evolution, Biodiversity, and Ecology"
+  },
+  {
+    "CourseName": "BIO 109 - Biological Principles III: Functional Biology"
+  },
+  {
+    "CourseName": "BIO 111 - Human Anatomy and Physiology I"
+  },
+  {
+    "CourseName": "BIO 112 - Practical Human Anatomy and Physiology I"
+  },
+  {
+    "CourseName": "BIO 113 - Human Anatomy and Physiology II"
+  },
+  {
+    "CourseName": "BIO 114 - Practical Human Anatomy and Physiology II"
+  },
+  {
+    "CourseName": "BIO 131 - Our Relationship with the Living World"
+  },
+  {
+    "CourseName": "BIO 201 - Genetics"
+  },
+  {
+    "CourseName": "BIO 203 - Ecology"
+  },
+  {
+    "CourseName": "BIO 217 - Evolution"
+  },
+  {
+    "CourseName": "BIO 221 - Human Anatomy and Physiology for Biology Majors I"
+  },
+  {
+    "CourseName": "BIO 223 - Human Anatomy and Physiology for Biology Majors II"
+  },
+  {
+    "CourseName": "BIO 281 - Microbiology for Health Sciences"
+  },
+  {
+    "CourseName": "BIO 282 - Microbiology Laboratory"
+  },
+  {
+    "CourseName": "BIO 291 - Ornithology"
+  },
+  {
+    "CourseName": "BIO 305 - Developmental Biology"
+  },
+  {
+    "CourseName": "BIO 306 - Developmental Biology Laboratory"
+  },
+  {
+    "CourseName": "BIO 309 - Comparative Vertebrate Anatomy"
+  },
+  {
+    "CourseName": "BIO 311 - Microbiology"
+  },
+  {
+    "CourseName": "BIO 321 - Neurobiology"
+  },
+  {
+    "CourseName": "BIO 322 - Neurobiology Laboratory"
+  },
+  {
+    "CourseName": "BIO 337 - Marine Ecology"
+  },
+  {
+    "CourseName": "BIO 345 - Pathophysiology"
+  },
+  {
+    "CourseName": "BIO 351 - Invertebrate Zoology"
+  },
+  {
+    "CourseName": "BIO 383 - Plant Ecology"
+  },
+  {
+    "CourseName": "BIO 401 - Animal Physiology"
+  },
+  {
+    "CourseName": "BIO 402 - Animal Physiology Laboratory"
+  },
+  {
+    "CourseName": "BIO 409 - Cell and Molecular Biology"
+  },
+  {
+    "CourseName": "BIO 410 - Cell and Molecular Biology Laboratory"
+  },
+  {
+    "CourseName": "BIO 413 - Applied Biostatistics"
+  },
+  {
+    "CourseName": "BIO 415 - Microbial Ecology"
+  },
+  {
+    "CourseName": "BIO 416 - Microbial Ecology Lab"
+  },
+  {
+    "CourseName": "BIO 421 - Biology Seminar"
+  },
+  {
+    "CourseName": "BIO 431 - Principles of Immunology"
+  },
+  {
+    "CourseName": "BIO 432 - Immunology Laboratory"
+  },
+  {
+    "CourseName": "BIO 441 - Problems in Biology (Independent Studies)"
+  },
+  {
+    "CourseName": "BIO 443 - Internship"
+  },
+  {
+    "CourseName": "BUS 200 - Introduction to Business"
+  },
+  {
+    "CourseName": "BUS 210 - Managing Sport for Society"
+  },
+  {
+    "CourseName": "BUS 241 - Applied Business Modeling"
+  },
+  {
+    "CourseName": "BUS 260 - Marketing"
+  },
+  {
+    "CourseName": "BUS 280 - Legal Environment of Business"
+  },
+  {
+    "CourseName": "BUS 285 - Topics in Business"
+  },
+  {
+    "CourseName": "BUS 295 - Internship in Business Administration"
+  },
+  {
+    "CourseName": "BUS 299 - Special Topics in Business"
+  },
+  {
+    "CourseName": "BUS 300 - Entrepreneurial Thinking"
+  },
+  {
+    "CourseName": "BUS 301 - Business Analytics"
+  },
+  {
+    "CourseName": "BUS 304 - AI, Business & Society"
+  },
+  {
+    "CourseName": "BUS 309 - Esports Management"
+  },
+  {
+    "CourseName": "BUS 311 - Sport Marketing"
+  },
+  {
+    "CourseName": "BUS 312 - Sport Law"
+  },
+  {
+    "CourseName": "BUS 314 - Sport Media & Communication"
+  },
+  {
+    "CourseName": "BUS 315 - Revenue Generation in Sport"
+  },
+  {
+    "CourseName": "BUS 316 - Sport Event & Facility Management"
+  },
+  {
+    "CourseName": "BUS 319 - Sport Tourism"
+  },
+  {
+    "CourseName": "BUS 322 - Sport Consumer Behavior"
+  },
+  {
+    "CourseName": "BUS 335 - International Business"
+  },
+  {
+    "CourseName": "BUS 339 - Business Ethics"
+  },
+  {
+    "CourseName": "BUS 340 - Managing Organizational Behavior"
+  },
+  {
+    "CourseName": "BUS 341 - New Product Development"
+  },
+  {
+    "CourseName": "BUS 343 - Management Skills"
+  },
+  {
+    "CourseName": "BUS 344 - Business Negotiation"
+  },
+  {
+    "CourseName": "BUS 345 - Technology Management"
+  },
+  {
+    "CourseName": "BUS 346 - Strategic Human Resource Management"
+  },
+  {
+    "CourseName": "BUS 347 - Triple-Bottom-Line Business"
+  },
+  {
+    "CourseName": "BUS 348 - Sustainable Business Practicum"
+  },
+  {
+    "CourseName": "BUS 351 - Cross-Cultural Management"
+  },
+  {
+    "CourseName": "BUS 356 - Digital Marketing"
+  },
+  {
+    "CourseName": "BUS 357 - Retail Management"
+  },
+  {
+    "CourseName": "BUS 360 - Marketing Strategy"
+  },
+  {
+    "CourseName": "BUS 361 - International Marketing"
+  },
+  {
+    "CourseName": "BUS 362 - Market Opportunity Analysis"
+  },
+  {
+    "CourseName": "BUS 363 - Branding and Advertising"
+  },
+  {
+    "CourseName": "BUS 364 - Professional Selling"
+  },
+  {
+    "CourseName": "BUS 365 - Consumer Behavior"
+  },
+  {
+    "CourseName": "BUS 369 - Marketing Research"
+  },
+  {
+    "CourseName": "BUS 371 - Logistics Management"
+  },
+  {
+    "CourseName": "BUS 372 - Supply Chain Management"
+  },
+  {
+    "CourseName": "BUS 373 - Project Management"
+  },
+  {
+    "CourseName": "BUS 374 - Purchasing and Procurement"
+  },
+  {
+    "CourseName": "BUS 375 - Production/Operations Management"
+  },
+  {
+    "CourseName": "BUS 376 - Advanced Topics in Strategy"
+  },
+  {
+    "CourseName": "BUS 378 - Sport Management Practicum"
+  },
+  {
+    "CourseName": "BUS 379 - Operational Excellence"
+  },
+  {
+    "CourseName": "BUS 382 - International Business Law"
+  },
+  {
+    "CourseName": "BUS 385 - Entrepreneurship and Venture Creation"
+  },
+  {
+    "CourseName": "BUS 386 - Creative Strategies for Entrepreneurs"
+  },
+  {
+    "CourseName": "BUS 387 - Design Thinking"
+  },
+  {
+    "CourseName": "BUS 389 - Self-directed Innovation Project"
+  },
+  {
+    "CourseName": "BUS 390 - Internship in Innovation, Creativity and Entrepreneurship"
+  },
+  {
+    "CourseName": "BUS 391 - Internship in Sustainable Business"
+  },
+  {
+    "CourseName": "BUS 392 - Internship in Marketing"
+  },
+  {
+    "CourseName": "BUS 394 - Internship in International Business"
+  },
+  {
+    "CourseName": "BUS 395 - Internship I"
+  },
+  {
+    "CourseName": "BUS 396 - Internship II"
+  },
+  {
+    "CourseName": "BUS 397 - Internship in Sport Management/Advance Field Experience"
+  },
+  {
+    "CourseName": "BUS 399 - Special Topics in Business"
+  },
+  {
+    "CourseName": "BUS 450 - Business Policy and Strategy"
+  },
+  {
+    "CourseName": "BUS 485 - Managing the Growing Entrepreneurial Venture"
+  },
+  {
+    "CourseName": "BUS 490 - Independent Study"
+  },
+  {
+    "CourseName": "BAN 300 - Foundations of Data Management"
+  },
+  {
+    "CourseName": "BAN 340 - Data Mining for Business Analysts"
+  },
+  {
+    "CourseName": "BAN 350 - Data Visualization"
+  },
+  {
+    "CourseName": "CHY 107 - Chemistry for Health Sciences"
+  },
+  {
+    "CourseName": "CHY 113 - Principles of Chemistry I"
+  },
+  {
+    "CourseName": "CHY 114 - Laboratory Techniques I"
+  },
+  {
+    "CourseName": "CHY 115 - Principles of Chemistry II"
+  },
+  {
+    "CourseName": "CHY 116 - Laboratory Techniques II"
+  },
+  {
+    "CourseName": "CHY 233 - Analytical Chemistry with Lab"
+  },
+  {
+    "CourseName": "CHY 251 - Organic Chemistry I"
+  },
+  {
+    "CourseName": "CHY 252 - Organic Chemistry Laboratory I"
+  },
+  {
+    "CourseName": "CHY 253 - Organic Chemistry II"
+  },
+  {
+    "CourseName": "CHY 254 - Organic Chemistry Laboratory II"
+  },
+  {
+    "CourseName": "CHY 371 - Quantum Chemistry"
+  },
+  {
+    "CourseName": "CHY 373 - Chemical Thermodynamics"
+  },
+  {
+    "CourseName": "CHY 374 - Chemical Thermodynamics Laboratory"
+  },
+  {
+    "CourseName": "CHY 377 - Spectroscopy"
+  },
+  {
+    "CourseName": "CHY 378 - Instrumental Analysis Laboratory"
+  },
+  {
+    "CourseName": "CHY 385 - Pickles to Pints: Fermentation Science"
+  },
+  {
+    "CourseName": "CHY 410 - Special Topics"
+  },
+  {
+    "CourseName": "CHY 421 - Inorganic Chemistry"
+  },
+  {
+    "CourseName": "CHY 461 - Biochemistry I"
+  },
+  {
+    "CourseName": "CHY 462 - Biochemistry Laboratory I"
+  },
+  {
+    "CourseName": "CHY 463 - Biochemistry II"
+  },
+  {
+    "CourseName": "CHY 470 - Chemistry in Perspective"
+  },
+  {
+    "CourseName": "CHI 101 - Beginning Chinese I"
+  },
+  {
+    "CourseName": "CHI 102 - Beginning Chinese II"
+  },
+  {
+    "CourseName": "CHI 201 - Intermediate Chinese I"
+  },
+  {
+    "CourseName": "CHI 202 - Intermediate Chinese II"
+  },
+  {
+    "CourseName": "CMS 102 - Introduction to Communication"
+  },
+  {
+    "CourseName": "CMS 103 - Introduction to Media Studies"
+  },
+  {
+    "CourseName": "CMS 150 - The Writing Process"
+  },
+  {
+    "CourseName": "CMS 190 - Nonverbal Communication"
+  },
+  {
+    "CourseName": "CMS 200 - Research Methods in Communication"
+  },
+  {
+    "CourseName": "CMS 201 - Introduction to Public Relations"
+  },
+  {
+    "CourseName": "CMS 202 - Writing for Popular Print Media"
+  },
+  {
+    "CourseName": "CMS 203 - Introduction to Video Production"
+  },
+  {
+    "CourseName": "CMS 204 - Introduction to Video Production Lab"
+  },
+  {
+    "CourseName": "CMS 205 - Topics in Media Writing I"
+  },
+  {
+    "CourseName": "CMS 210 - Topics in Media Criticism I"
+  },
+  {
+    "CourseName": "CMS 215 - Journalism Reporting and Writing"
+  },
+  {
+    "CourseName": "CMS 220 - Topics in Media Production I"
+  },
+  {
+    "CourseName": "CMS 222 - Digital Radio & Audio Production"
+  },
+  {
+    "CourseName": "CMS 223 - Communication Law"
+  },
+  {
+    "CourseName": "CMS 225 - Screenwriting"
+  },
+  {
+    "CourseName": "CMS 235 - Communicating Security"
+  },
+  {
+    "CourseName": "CMS 242 - Communication and Social Media"
+  },
+  {
+    "CourseName": "CMS 265 - Intrapersonal Communication"
+  },
+  {
+    "CourseName": "CMS 272 - Persuasion"
+  },
+  {
+    "CourseName": "CMS 274 - Writing for the Media"
+  },
+  {
+    "CourseName": "CMS 284 - Introduction to Cinema Studies"
+  },
+  {
+    "CourseName": "CMS 286 - History of International Cinema to 1945"
+  },
+  {
+    "CourseName": "CMS 288 - History of International Cinema Since 1945"
+  },
+  {
+    "CourseName": "CMS 290 - Intercultural Communication"
+  },
+  {
+    "CourseName": "CMS 294 - Visual Communication"
+  },
+  {
+    "CourseName": "CMS 298 - Topics in Communication I"
+  },
+  {
+    "CourseName": "CMS 300 - Topics in Media Writing II"
+  },
+  {
+    "CourseName": "CMS 301 - Public Relations: Cases and Campaigns"
+  },
+  {
+    "CourseName": "CMS 302 - Writing the Feature Story"
+  },
+  {
+    "CourseName": "CMS 303 - Media Effects"
+  },
+  {
+    "CourseName": "CMS 305 - Writing Opinion: Editorials and Columns"
+  },
+  {
+    "CourseName": "CMS 310 - Topics in Media Criticism II"
+  },
+  {
+    "CourseName": "CMS 315 - Broadcast Newswriting"
+  },
+  {
+    "CourseName": "CMS 320 - Topics in Media Production II"
+  },
+  {
+    "CourseName": "CMS 322 - Digital Audio Storytelling"
+  },
+  {
+    "CourseName": "CMS 323 - Understanding Technology"
+  },
+  {
+    "CourseName": "CMS 324 - Photojournalism"
+  },
+  {
+    "CourseName": "CMS 326 - Special Effects and Animation"
+  },
+  {
+    "CourseName": "CMS 330 - Interpersonal Communication"
+  },
+  {
+    "CourseName": "CMS 332 - Communication in the Family"
+  },
+  {
+    "CourseName": "CMS 335 - Public Relations: Special Topics"
+  },
+  {
+    "CourseName": "CMS 340 - Narrative Filmmaking"
+  },
+  {
+    "CourseName": "CMS 341 - Narrative Filmmaking Lab"
+  },
+  {
+    "CourseName": "CMS 345 - Small Group Communication"
+  },
+  {
+    "CourseName": "CMS 360 - Ethical Dilemmas in the Digital Age"
+  },
+  {
+    "CourseName": "CMS 374 - Media Criticism and Aesthetics"
+  },
+  {
+    "CourseName": "CMS 375 - Meaning and Communication"
+  },
+  {
+    "CourseName": "CMS 380 - Film Genres & Auteurs"
+  },
+  {
+    "CourseName": "CMS 384 - Topics in Cinema Studies"
+  },
+  {
+    "CourseName": "CMS 393 - Internships in Communication & Media Studies"
+  },
+  {
+    "CourseName": "CMS 398 - Topics in Communication II"
+  },
+  {
+    "CourseName": "CMS 400 - Senior Project Workshop"
+  },
+  {
+    "CourseName": "CMS 401 - Launching into Life After College"
+  },
+  {
+    "CourseName": "CMS 423 - The First Amendment"
+  },
+  {
+    "CourseName": "CMS 440 - Advanced Narrative Filmmaking"
+  },
+  {
+    "CourseName": "CMS 441 - Advanced Narrative Filmmaking Lab"
+  },
+  {
+    "CourseName": "CMS 450 - Service Learning Practicum"
+  },
+  {
+    "CourseName": "CMS 460 - Topics in Media Production III"
+  },
+  {
+    "CourseName": "CMS 480 - Gender Communication"
+  },
+  {
+    "CourseName": "CMS 485 - Senior Seminar in Media Studies"
+  },
+  {
+    "CourseName": "CMS 491 - Independent Study"
+  },
+  {
+    "CourseName": "CMS 493 - Advanced Internship and Professional Portfolio in Media Studies"
+  },
+  {
+    "CourseName": "CMS 495 - Communication Capstone"
+  },
+  {
+    "CourseName": "CMS 498 - Topics in Communication III"
+  },
+  {
+    "CourseName": "COS 160 - Structured Problem Solving"
+  },
+  {
+    "CourseName": "COS 161 - Algorithms in Programming"
+  },
+  {
+    "CourseName": "COS 184 - Python Programming"
+  },
+  {
+    "CourseName": "COS 199 - Topics in Computer Programming"
+  },
+  {
+    "CourseName": "COS 212 - Game Software Development"
+  },
+  {
+    "CourseName": "COS 226 - Data Structures and Algorithms"
+  },
+  {
+    "CourseName": "COS 250 - Computer Organization"
+  },
+  {
+    "CourseName": "COS 280 - Discrete Mathematics II"
+  },
+  {
+    "CourseName": "COS 285 - Data Structures"
+  },
+  {
+    "CourseName": "COS 322 - Foundations of Machine Learning"
+  },
+  {
+    "CourseName": "COS 350 - Systems Programming"
+  },
+  {
+    "CourseName": "COS 360 - Programming Languages"
+  },
+  {
+    "CourseName": "COS 374 - Numerical Analysis"
+  },
+  {
+    "CourseName": "COS 398 - Professional Ethics and Social Impact of Computing"
+  },
+  {
+    "CourseName": "COS 420 - Object-Oriented Design"
+  },
+  {
+    "CourseName": "COS 422 - Computing for Data Science"
+  },
+  {
+    "CourseName": "COS 427 - Natural Language Processing"
+  },
+  {
+    "CourseName": "COS 430 - Software Engineering"
+  },
+  {
+    "CourseName": "COS 432 - Deep Learning"
+  },
+  {
+    "CourseName": "COS 450 - Operating Systems"
+  },
+  {
+    "CourseName": "COS 457 - Database Systems"
+  },
+  {
+    "CourseName": "COS 460 - Computer Networks"
+  },
+  {
+    "CourseName": "COS 462 - Image Processing and Computer Vision"
+  },
+  {
+    "CourseName": "COS 470 - Topics in Computer Science"
+  },
+  {
+    "CourseName": "COS 472 - Artificial Intelligence and Data Mining"
+  },
+  {
+    "CourseName": "COS 475 - Advanced Machine Learning"
+  },
+  {
+    "CourseName": "COS 485 - Design and Analysis of Computing Algorithms"
+  },
+  {
+    "CourseName": "COS 497 - Independent Study in Computer Science"
+  },
+  {
+    "CourseName": "COS 498 - Computer Science Internship"
+  },
+  {
+    "CourseName": "COR 301 - Thoughtful Giving: Philanthropy and American Culture"
+  },
+  {
+    "CourseName": "COR 400 - Launching into Life After College"
+  },
+  {
+    "CourseName": "CRM 100 - Introduction to Criminology"
+  },
+  {
+    "CourseName": "CRM 216 - White-Collar Crime"
+  },
+  {
+    "CourseName": "CRM 217 - Crime in Maine"
+  },
+  {
+    "CourseName": "CRM 220 - Research Methods in Criminology"
+  },
+  {
+    "CourseName": "CRM 225 - Crimes Against the Environment"
+  },
+  {
+    "CourseName": "CRM 227 - Policing Society"
+  },
+  {
+    "CourseName": "CRM 230 - Introduction to the Criminal Justice System"
+  },
+  {
+    "CourseName": "CRM 310 - Classical Theories of Social Order"
+  },
+  {
+    "CourseName": "CRM 317 - Gender and Crime"
+  },
+  {
+    "CourseName": "CRM 320 - Film and Social Order"
+  },
+  {
+    "CourseName": "CRM 330 - Crime and Social Control"
+  },
+  {
+    "CourseName": "CRM 340 - Criminal Law"
+  },
+  {
+    "CourseName": "CRM 350 - Topics in Criminology"
+  },
+  {
+    "CourseName": "CRM 365 - Race and Punishment"
+  },
+  {
+    "CourseName": "CRM 370 - Prison and Police Abolition"
+  },
+  {
+    "CourseName": "CRM 375 - Media, Crime, and Criminality"
+  },
+  {
+    "CourseName": "CRM 390 - Independent Projects"
+  },
+  {
+    "CourseName": "CRM 395 - Internship"
+  },
+  {
+    "CourseName": "CRM 402 - Senior Seminar"
+  },
+  {
+    "CourseName": "DAN 101 - Contemporary Dance I"
+  },
+  {
+    "CourseName": "DAN 102 - Ballet I"
+  },
+  {
+    "CourseName": "DAN 103 - Jazz Dance I"
+  },
+  {
+    "CourseName": "DAN 104 - Tap Dance I"
+  },
+  {
+    "CourseName": "DAN 105 - Musical Theatre Styles I"
+  },
+  {
+    "CourseName": "DAN 180 - Topics in Technique"
+  },
+  {
+    "CourseName": "DAN 190 - Rehearsal & Production"
+  },
+  {
+    "CourseName": "DAN 201 - Contemporary Dance II"
+  },
+  {
+    "CourseName": "DAN 202 - Ballet II"
+  },
+  {
+    "CourseName": "DAN 203 - Jazz Dance II"
+  },
+  {
+    "CourseName": "DAN 204 - Tap Dance II"
+  },
+  {
+    "CourseName": "DAN 205 - Musical Theatre Styles II"
+  },
+  {
+    "CourseName": "DAN 208 - Choreography"
+  },
+  {
+    "CourseName": "DAN 266 - The Art of Dance"
+  },
+  {
+    "CourseName": "DAN 280 - Topics in Dance"
+  },
+  {
+    "CourseName": "DAN 305 - Dance and Health"
+  },
+  {
+    "CourseName": "DAN 410 - Student Dance Project"
+  },
+  {
+    "CourseName": "ECO 101 - Introduction to Macroeconomics"
+  },
+  {
+    "CourseName": "ECO 102 - Introduction to Microeconomics"
+  },
+  {
+    "CourseName": "ECO 103 - Critical Thinking About Economic Issues"
+  },
+  {
+    "CourseName": "ECO 120 - Lying with Graphs: Reading, Writing and Interpreting Graphs in the Social Sciences"
+  },
+  {
+    "CourseName": "ECO 220 - U.S. Economic and Labor History"
+  },
+  {
+    "CourseName": "ECO 234 - Political Economy in Popular Song"
+  },
+  {
+    "CourseName": "ECO 301 - Intermediate Macroeconomics"
+  },
+  {
+    "CourseName": "ECO 302 - Intermediate Microeconomics"
+  },
+  {
+    "CourseName": "ECO 304 - Research Methods in Economics"
+  },
+  {
+    "CourseName": "ECO 305 - Econometrics"
+  },
+  {
+    "CourseName": "ECO 310 - Money and Banking"
+  },
+  {
+    "CourseName": "ECO 312 - U.S. Economic Policy"
+  },
+  {
+    "CourseName": "ECO 315 - Economic Development"
+  },
+  {
+    "CourseName": "ECO 316 - Case Studies in International Development"
+  },
+  {
+    "CourseName": "ECO 321 - Understanding Contemporary Capitalism"
+  },
+  {
+    "CourseName": "ECO 326 - Environmental Economics"
+  },
+  {
+    "CourseName": "ECO 327 - Natural Resource Economics"
+  },
+  {
+    "CourseName": "ECO 329 - Community Economic Development and Well-Being"
+  },
+  {
+    "CourseName": "ECO 333 - Economics and Happiness"
+  },
+  {
+    "CourseName": "ECO 335 - The Political Economy of Food"
+  },
+  {
+    "CourseName": "ECO 370 - International Economics"
+  },
+  {
+    "CourseName": "ECO 399 - Special Topics in Economics"
+  },
+  {
+    "CourseName": "ECO 400 - Capstone in Economics"
+  },
+  {
+    "CourseName": "ECO 405 - Internship"
+  },
+  {
+    "CourseName": "ECO 490 - Independent Readings and Research in Economics"
+  },
+  {
+    "CourseName": "EDU 100 - Exploring Teaching as a Profession"
+  },
+  {
+    "CourseName": "EDU 222 - Foundations of Language and Literacy Development"
+  },
+  {
+    "CourseName": "EDU 225 - Multicultural Child and Adolescent Development"
+  },
+  {
+    "CourseName": "EDU 230 - Teaching Through the Arts"
+  },
+  {
+    "CourseName": "EDU 300 - Educational Media and Technology"
+  },
+  {
+    "CourseName": "EDU 305 - Foundations of Cultural and Linguistic Diversity"
+  },
+  {
+    "CourseName": "EDU 310 - Education, Schooling, and Democracy"
+  },
+  {
+    "CourseName": "EDU 336 - Children’s Literature"
+  },
+  {
+    "CourseName": "EDU 401 - Secondary Science Methods for All Students"
+  },
+  {
+    "CourseName": "EDU 402 - Secondary English Methods"
+  },
+  {
+    "CourseName": "EDU 403 - World Language Methods for all Learners"
+  },
+  {
+    "CourseName": "EDU 404 - Secondary Social Studies Methods for All Students"
+  },
+  {
+    "CourseName": "EDU 410 - Creating Culturally Responsive Classrooms"
+  },
+  {
+    "CourseName": "EDU 414 - Improving Teaching in the Content Areas through Literacy for All Students"
+  },
+  {
+    "CourseName": "EDU 442 - Professional Seminar in Teaching"
+  },
+  {
+    "CourseName": "EDU 445 - Internship in General Education"
+  },
+  {
+    "CourseName": "EDU 446 - Planning and Assessment I"
+  },
+  {
+    "CourseName": "EDU 447 - Planning and Assessment II"
+  },
+  {
+    "CourseName": "EDU 451 - Elementary Social Studies Methods for All Students"
+  },
+  {
+    "CourseName": "EDU 452 - Teaching Elementary Science to All Students"
+  },
+  {
+    "CourseName": "EDU 454 - Secondary Mathematics Methods for All Students"
+  },
+  {
+    "CourseName": "EDU 465 - Teaching Reading for All Students in Grades K-6"
+  },
+  {
+    "CourseName": "EDU 466 - Teaching Writing for All Students"
+  },
+  {
+    "CourseName": "ELE 172 - Digital Logic"
+  },
+  {
+    "CourseName": "ELE 179 - Digital Logic Laboratory"
+  },
+  {
+    "CourseName": "ELE 216 - Circuits I: Steady-State Analysis"
+  },
+  {
+    "CourseName": "ELE 217 - Circuits II: System Dynamics"
+  },
+  {
+    "CourseName": "ELE 219 - Circuits Laboratory"
+  },
+  {
+    "CourseName": "ELE 262 - Physical Electronics"
+  },
+  {
+    "CourseName": "ELE 271 - Microprocessor Systems"
+  },
+  {
+    "CourseName": "ELE 314 - Signals and Systems"
+  },
+  {
+    "CourseName": "ELE 323 - Electromechanical Energy Conversion"
+  },
+  {
+    "CourseName": "ELE 342 - Electronics I: Devices and Circuits"
+  },
+  {
+    "CourseName": "ELE 343 - Electronics II: Electronic Design"
+  },
+  {
+    "CourseName": "ELE 351 - Electromagnetic Fields"
+  },
+  {
+    "CourseName": "ELE 427 - Energy and Power Systems"
+  },
+  {
+    "CourseName": "ELE 452 - Antennas"
+  },
+  {
+    "CourseName": "ELE 467 - Optoelectronics"
+  },
+  {
+    "CourseName": "ELE 471 - Real-Time and Embedded Systems"
+  },
+  {
+    "CourseName": "ELE 473 - Computer Architecture and Organization"
+  },
+  {
+    "CourseName": "ELE 483 - Communications Engineering"
+  },
+  {
+    "CourseName": "ELE 486 - Digital Signal Processing"
+  },
+  {
+    "CourseName": "ELE 487 - Digital Image Processing"
+  },
+  {
+    "CourseName": "ELE 489 - Analog and Digital Signals Laboratory"
+  },
+  {
+    "CourseName": "ENG 100 - College Writing"
+  },
+  {
+    "CourseName": "ENG 101 - Independent Writing"
+  },
+  {
+    "CourseName": "ENG 102 - Academic Writing"
+  },
+  {
+    "CourseName": "ENG 140 - Reading Literature"
+  },
+  {
+    "CourseName": "ENG 201 - Creative Writing"
+  },
+  {
+    "CourseName": "ENG 204 - Professional Writing"
+  },
+  {
+    "CourseName": "ENG 205 - Sentence Style"
+  },
+  {
+    "CourseName": "ENG 220 - World Masterpieces I"
+  },
+  {
+    "CourseName": "ENG 245 - Introduction to Literary Studies"
+  },
+  {
+    "CourseName": "ENG 300 - Fiction Writing"
+  },
+  {
+    "CourseName": "ENG 301 - Poetry Writing"
+  },
+  {
+    "CourseName": "ENG 302 - Fiction Workshop"
+  },
+  {
+    "CourseName": "ENG 303 - Poetry Workshop"
+  },
+  {
+    "CourseName": "ENG 304 - Advanced Memoir"
+  },
+  {
+    "CourseName": "ENG 305 - Rhetoric, Syntax, and Style"
+  },
+  {
+    "CourseName": "ENG 306 - Writing the Novel"
+  },
+  {
+    "CourseName": "ENG 307 - Topics in Professional Writing"
+  },
+  {
+    "CourseName": "ENG 308 - Writing Center Practicum"
+  },
+  {
+    "CourseName": "ENG 310 - Topics in Journalism"
+  },
+  {
+    "CourseName": "ENG 319 - Studies in Genre and Form"
+  },
+  {
+    "CourseName": "ENG 321 - Modernisms"
+  },
+  {
+    "CourseName": "ENG 322 - Modern Autobiography"
+  },
+  {
+    "CourseName": "ENG 328 - Modern Novel: Themes and Methods"
+  },
+  {
+    "CourseName": "ENG 334 - Topics in Literacy Studies"
+  },
+  {
+    "CourseName": "ENG 337 - Studies in Rhetoric"
+  },
+  {
+    "CourseName": "ENG 341 - Contemporary Critical Theories"
+  },
+  {
+    "CourseName": "ENG 342 - Topics in Contemporary Theory"
+  },
+  {
+    "CourseName": "ENG 344 - Sex/Gender and Sexuality"
+  },
+  {
+    "CourseName": "ENG 347 - Topics in Cultural Studies"
+  },
+  {
+    "CourseName": "ENG 348 - Topics in Interdisciplinary Studies"
+  },
+  {
+    "CourseName": "ENG 351 - Chaucer and the Medieval World"
+  },
+  {
+    "CourseName": "ENG 360 - Shakespeare"
+  },
+  {
+    "CourseName": "ENG 361 - Shakespeare"
+  },
+  {
+    "CourseName": "ENG 366 - Studies in the Restoration and Eighteenth Century"
+  },
+  {
+    "CourseName": "ENG 370 - Literature of Discovery, Exploration, and Colonialism"
+  },
+  {
+    "CourseName": "ENG 371 - Romantic Writing"
+  },
+  {
+    "CourseName": "ENG 373 - Studies in Romantic Literature and Culture"
+  },
+  {
+    "CourseName": "ENG 377 - Studies in Nineteenth-Century British Literature and Culture"
+  },
+  {
+    "CourseName": "ENG 380 - Early Nineteenth-Century American Literature and Culture"
+  },
+  {
+    "CourseName": "ENG 382 - The Earlier American Novel"
+  },
+  {
+    "CourseName": "ENG 383 - Studies in African-American Literature and Culture"
+  },
+  {
+    "CourseName": "ENG 384 - Late Nineteenth-Century American Literature and Culture"
+  },
+  {
+    "CourseName": "ENG 385 - Studies in Nineteenth-Century American Literature and Culture"
+  },
+  {
+    "CourseName": "ENG 387 - Women Writers Since 1900"
+  },
+  {
+    "CourseName": "ENG 393 - The American Novel Since 1900"
+  },
+  {
+    "CourseName": "ENG 394 - Studies in American Literature and Culture Since 1900"
+  },
+  {
+    "CourseName": "ENG 396 - James Joyce"
+  },
+  {
+    "CourseName": "ENG 398 - Studies in British Literature and Culture Since 1900"
+  },
+  {
+    "CourseName": "ENG 400 - Independent Study in Creative or Expository Writing"
+  },
+  {
+    "CourseName": "ENG 401 - Creative Writing Minor Thesis"
+  },
+  {
+    "CourseName": "ENG 409 - Internship in Professional Writing"
+  },
+  {
+    "CourseName": "ENG 419 - Seminar in Genre and Form"
+  },
+  {
+    "CourseName": "ENG 441 - Seminar in Literary Criticism and Theory"
+  },
+  {
+    "CourseName": "ENG 444 - Independent Study in Interdisciplinary and Cultural Studies"
+  },
+  {
+    "CourseName": "ENG 445 - Seminar in Interdisciplinary and Cultural Studies"
+  },
+  {
+    "CourseName": "ENG 450 - Independent Study in Medieval Studies"
+  },
+  {
+    "CourseName": "ENG 456 - Seminar in the Renaissance"
+  },
+  {
+    "CourseName": "ENG 466 - Seminar in the Eighteenth Century"
+  },
+  {
+    "CourseName": "ENG 475 - Independent Study in the Nineteenth Century"
+  },
+  {
+    "CourseName": "ENG 476 - Seminar in Nineteenth-Century Studies"
+  },
+  {
+    "CourseName": "ENG 491 - Seminar in Literature Since 1900"
+  },
+  {
+    "CourseName": "ESL 006 - Intensive Grammar"
+  },
+  {
+    "CourseName": "ESL 007 - Listening and Oral Communication/US Culture"
+  },
+  {
+    "CourseName": "ESL 008 - Reading, Writing & Vocabulary"
+  },
+  {
+    "CourseName": "ESL 009 - Intensive Reading and Speaking Fluency"
+  },
+  {
+    "CourseName": "ESL 016 - Intensive Grammar"
+  },
+  {
+    "CourseName": "ESL 017 - Listening and Oral Communication/US Culture"
+  },
+  {
+    "CourseName": "ESL 018 - Reading, Writing & Vocabulary"
+  },
+  {
+    "CourseName": "ESL 019 - Intensive Reading and Speaking Fluency"
+  },
+  {
+    "CourseName": "ESL 098 - Intermediate Grammar and Writing"
+  },
+  {
+    "CourseName": "ESL 099 - Intermediate Reading, Writing, and Vocabulary"
+  },
+  {
+    "CourseName": "ESL 100 - College Writing"
+  },
+  {
+    "CourseName": "ESL 101 - Admissions Pathway Program Level I: Intermediate/Advanced Grammar and Writing"
+  },
+  {
+    "CourseName": "ESL 102 - Admissions Pathway Program Level II: Advanced Grammar and Writing"
+  },
+  {
+    "CourseName": "ESL 103 - Admissions Pathway Program Level I: Intermediate/ Advanced Reading, Writing, and Vocabulary"
+  },
+  {
+    "CourseName": "ESL 104 - Admissions Pathway Program Level II: Advanced Reading, Writing, and Vocabulary"
+  },
+  {
+    "CourseName": "ESL 115 - Applied Grammar and Editing in Professional Communication for Multilingual Students"
+  },
+  {
+    "CourseName": "ESP 101 - Environmental Science and Sustainability"
+  },
+  {
+    "CourseName": "ESP 102 - Fundamentals of Environmental Science Laboratory"
+  },
+  {
+    "CourseName": "ESP 125 - Introduction to Environmental Ecology"
+  },
+  {
+    "CourseName": "ESP 126 - Introduction to Environmental Ecology Laboratory"
+  },
+  {
+    "CourseName": "ESP 150 - Environmental Science Field Immersion Session"
+  },
+  {
+    "CourseName": "ESP 197 - Research Skills Lab"
+  },
+  {
+    "CourseName": "ESP 199 - Topics in Environmental Science"
+  },
+  {
+    "CourseName": "ESP 200 - Environmental Planning"
+  },
+  {
+    "CourseName": "ESP 203 - Environmental Communication"
+  },
+  {
+    "CourseName": "ESP 207 - Atmosphere: Science, Climate, and Change"
+  },
+  {
+    "CourseName": "ESP 220 - Introduction to Environmental Policy"
+  },
+  {
+    "CourseName": "ESP 250 - Soils and Land Use"
+  },
+  {
+    "CourseName": "ESP 260 - Soil and Water Conservation Engineering"
+  },
+  {
+    "CourseName": "ESP 280 - Research and Analytical Methods"
+  },
+  {
+    "CourseName": "ESP 299 - Topics in Environmental Science"
+  },
+  {
+    "CourseName": "ESP 303 - Wetlands Ecology"
+  },
+  {
+    "CourseName": "ESP 304 - Wetlands Ecology Laboratory"
+  },
+  {
+    "CourseName": "ESP 308 - Global Sustainability"
+  },
+  {
+    "CourseName": "ESP 326 - Environmental Economics"
+  },
+  {
+    "CourseName": "ESP 327 - Natural Resource Economics"
+  },
+  {
+    "CourseName": "ESP 340 - Environmental Regulations"
+  },
+  {
+    "CourseName": "ESP 341 - Freshwater Science"
+  },
+  {
+    "CourseName": "ESP 350 - Environmental Entomology"
+  },
+  {
+    "CourseName": "ESP 360 - Water Quality Assessment and Control"
+  },
+  {
+    "CourseName": "ESP 375 - Environmental Risk Assessment and Management"
+  },
+  {
+    "CourseName": "ESP 389 - Teaching Practicum"
+  },
+  {
+    "CourseName": "ESP 399 - Topics in Environmental Science"
+  },
+  {
+    "CourseName": "ESP 400 - Internship"
+  },
+  {
+    "CourseName": "ESP 401 - Environmental Impact Assessment and Lab"
+  },
+  {
+    "CourseName": "ESP 412 - Field Ecosystem Ecology"
+  },
+  {
+    "CourseName": "ESP 413 - Forest Ecology"
+  },
+  {
+    "CourseName": "ESP 417 - Site Planning and Assessment"
+  },
+  {
+    "CourseName": "ESP 421 - Natural Resource Policy"
+  },
+  {
+    "CourseName": "ESP 445 - Environmental Education and Interpretation"
+  },
+  {
+    "CourseName": "ESP 450 - Research Practicum"
+  },
+  {
+    "CourseName": "ESP 475 - Topics in Environmental Science"
+  },
+  {
+    "CourseName": "ESP 480 - Environmental Science and Policy Capstone"
+  },
+  {
+    "CourseName": "FYE 101 - Husky Participate and Connect Course"
+  },
+  {
+    "CourseName": "FYE 188 - College & Career Success"
+  },
+  {
+    "CourseName": "FRE 101 - Beginning French I"
+  },
+  {
+    "CourseName": "FRE 102 - Beginning French II"
+  },
+  {
+    "CourseName": "FRE 150 - Language Table"
+  },
+  {
+    "CourseName": "FRE 201 - Intermediate French I"
+  },
+  {
+    "CourseName": "FRE 202 - Intermediate French II"
+  },
+  {
+    "CourseName": "FRE 300 - Building Fluency in French"
+  },
+  {
+    "CourseName": "FRE 301 - Practical French I"
+  },
+  {
+    "CourseName": "FRE 302 - Practical French II"
+  },
+  {
+    "CourseName": "FRE 398 - Independent Study"
+  },
+  {
+    "CourseName": "FRE 416 - The Linguistic Structure of French"
+  },
+  {
+    "CourseName": "GDS 100 - Game Design I: Introduction"
+  },
+  {
+    "CourseName": "GDS 200 - Game Design II: Collaborative Concepts, Tools and Processes"
+  },
+  {
+    "CourseName": "GDS 300 - Game Design III: Practicum in Theory & Application"
+  },
+  {
+    "CourseName": "EGN 101 - Introduction to Engineering"
+  },
+  {
+    "CourseName": "EGN 160 - Introduction to Programming: Python"
+  },
+  {
+    "CourseName": "EGN 181 - Engineering Tools: Mathematica"
+  },
+  {
+    "CourseName": "EGN 182 - Engineering Tools: SolidWorks"
+  },
+  {
+    "CourseName": "EGN 186 - Engineering Tools: MATLAB"
+  },
+  {
+    "CourseName": "EGN 187 - Engineering Tools: Circuit Simulation"
+  },
+  {
+    "CourseName": "EGN 188 - Engineering Tools: Materials Processing"
+  },
+  {
+    "CourseName": "EGN 189 - Engineering Tools: Spreadsheet Programming"
+  },
+  {
+    "CourseName": "EGN 248 - Introduction to Differential Equations and Linear Algebra"
+  },
+  {
+    "CourseName": "EGN 304 - Engineering Economics"
+  },
+  {
+    "CourseName": "EGN 325 - Control Systems"
+  },
+  {
+    "CourseName": "EGN 329 - Electromechanical and Control Systems Laboratory"
+  },
+  {
+    "CourseName": "EGN 394 - Engineering Internship"
+  },
+  {
+    "CourseName": "EGN 401 - Senior Design Project I and the Engineering Profession"
+  },
+  {
+    "CourseName": "EGN 402 - Senior Design Project II"
+  },
+  {
+    "CourseName": "EGN 403 - Advanced Design Project"
+  },
+  {
+    "CourseName": "EGN 417 - Introduction to Robotics"
+  },
+  {
+    "CourseName": "EGN 421 - Plasma Engineering"
+  },
+  {
+    "CourseName": "EGN 446 - Micro Electromechanical Systems"
+  },
+  {
+    "CourseName": "EGN 482 - Engineering Problem Solving"
+  },
+  {
+    "CourseName": "EGN 497 - Independent Study"
+  },
+  {
+    "CourseName": "EGN 498 - Advanced Topics in Engineering"
+  },
+  {
+    "CourseName": "GEO 101 - Human Geography"
+  },
+  {
+    "CourseName": "GEO 102 - Physical Geography"
+  },
+  {
+    "CourseName": "GEO 103 - Human-Environmental Geography"
+  },
+  {
+    "CourseName": "GEO 104 - World-Regional Geography"
+  },
+  {
+    "CourseName": "GEO 105 - Society, Environment, and Change"
+  },
+  {
+    "CourseName": "GEO 107 - Maps and Math"
+  },
+  {
+    "CourseName": "GEO 108 - Introduction to ArcGIS"
+  },
+  {
+    "CourseName": "GEO 120 - Geography of Maine"
+  },
+  {
+    "CourseName": "GEO 170 - Global History: Mapping the World Across Cultures"
+  },
+  {
+    "CourseName": "GEO 204 - Coastal and Marine Geography"
+  },
+  {
+    "CourseName": "GEO 209 - Introduction to Land Use Planning"
+  },
+  {
+    "CourseName": "GEO 210 - Planning Maine Communities: Current Issues & Directions"
+  },
+  {
+    "CourseName": "GEO 270 - Mapping Environments and People: Data Visualization and Analysis"
+  },
+  {
+    "CourseName": "GEO 295 - Topics in Geography"
+  },
+  {
+    "CourseName": "GEO 303 - Economic Geography"
+  },
+  {
+    "CourseName": "GEO 304 - Arctic and North Atlantic Regions"
+  },
+  {
+    "CourseName": "GEO 305 - Remote Sensing"
+  },
+  {
+    "CourseName": "GEO 308 - GIS Applications I"
+  },
+  {
+    "CourseName": "GEO 370 - Maps, Territory, Power"
+  },
+  {
+    "CourseName": "GEO 395 - Topics in Geography"
+  },
+  {
+    "CourseName": "GEO 408 - GIS Applications II"
+  },
+  {
+    "CourseName": "GEO 438 - Independent Study in GIS"
+  },
+  {
+    "CourseName": "GEO 445 - Drone Mapping"
+  },
+  {
+    "CourseName": "GEO 448 - GIS Internship"
+  },
+  {
+    "CourseName": "GEO 458 - Research Applications in GIS"
+  },
+  {
+    "CourseName": "GEO 495 - Topics in Geography"
+  },
+  {
+    "CourseName": "GYA 300 - Archaeology Field School"
+  },
+  {
+    "CourseName": "GYA 350 - Internship in Applied Geography-Anthropology"
+  },
+  {
+    "CourseName": "GYA 400 - Independent Study in Anthropology or Geography"
+  },
+  {
+    "CourseName": "GEY 100 - Volcanoes, Earthquakes & Moving Plates"
+  },
+  {
+    "CourseName": "GEY 101 - Lab Experiences in Geology"
+  },
+  {
+    "CourseName": "GER 101 - Beginning German I"
+  },
+  {
+    "CourseName": "GER 102 - Beginning German II"
+  },
+  {
+    "CourseName": "GER 150 - Language Table"
+  },
+  {
+    "CourseName": "GER 201 - Intermediate German I"
+  },
+  {
+    "CourseName": "GER 202 - Intermediate German II"
+  },
+  {
+    "CourseName": "GER 300 - Building Fluency in German"
+  },
+  {
+    "CourseName": "GER 398 - Independent Study"
+  },
+  {
+    "CourseName": "GRN 300 - Aging and the Family"
+  },
+  {
+    "CourseName": "GRN 310 - Aging and the Search for Meaning"
+  },
+  {
+    "CourseName": "GRN 312 - The Spiritual Challenges and Opportunities of Aging"
+  },
+  {
+    "CourseName": "GRN 313 - Health in Later Years"
+  },
+  {
+    "CourseName": "GRN 315 - Rehabilitation Services for Older Adult"
+  },
+  {
+    "CourseName": "GRN 318 - Adult Development and Aging"
+  },
+  {
+    "CourseName": "GRN 390 - Evaluation and Assessment of Older Adults"
+  },
+  {
+    "CourseName": "HTY 101 - Origins of Mediterranean Civilizations to 750 CE"
+  },
+  {
+    "CourseName": "HTY 102 - World History 750 CE to Present"
+  },
+  {
+    "CourseName": "HTY 131 - United States History to 1877"
+  },
+  {
+    "CourseName": "HTY 132 - United States History Since 1877"
+  },
+  {
+    "CourseName": "HTY 141 - African American History to 1865"
+  },
+  {
+    "CourseName": "HTY 142 - African American History from 1865"
+  },
+  {
+    "CourseName": "HTY 143 - Native American History, 1450-2000"
+  },
+  {
+    "CourseName": "HTY 152 - The Islamic Near East"
+  },
+  {
+    "CourseName": "HTY 161 - Medieval Africa"
+  },
+  {
+    "CourseName": "HTY 162 - Modern Africa"
+  },
+  {
+    "CourseName": "HTY 171 - Traditional East Asia"
+  },
+  {
+    "CourseName": "HTY 172 - Modern East Asia"
+  },
+  {
+    "CourseName": "HTY 200 - Reference, Research, and Report Writing"
+  },
+  {
+    "CourseName": "HTY 300 - History Internship"
+  },
+  {
+    "CourseName": "HTY 323 - Sex and the World Wars"
+  },
+  {
+    "CourseName": "HTY 326 - History of the British Empire"
+  },
+  {
+    "CourseName": "HTY 330 - Germany: Bismarck To Hitler"
+  },
+  {
+    "CourseName": "HTY 334 - The Holocaust: Policy, Practice, Response"
+  },
+  {
+    "CourseName": "HTY 335 - Genocide in Our Time"
+  },
+  {
+    "CourseName": "HTY 340 - Race in American Schooling"
+  },
+  {
+    "CourseName": "HTY 345 - African Americans and American Justice"
+  },
+  {
+    "CourseName": "HTY 346 - The Civil Rights Movement"
+  },
+  {
+    "CourseName": "HTY 347 - Race and the Politics of Mass Incarceration"
+  },
+  {
+    "CourseName": "HTY 353 - Gender in Native North America, 1450-1850"
+  },
+  {
+    "CourseName": "HTY 356 - Civil War and Reconstruction"
+  },
+  {
+    "CourseName": "HTY 357 - The Gilded Age in America, 1869-1898"
+  },
+  {
+    "CourseName": "HTY 358 - Early Twentieth-Century United States, 1898-1938"
+  },
+  {
+    "CourseName": "HTY 360 - History of Maine"
+  },
+  {
+    "CourseName": "HTY 364 - History of Women in the United States"
+  },
+  {
+    "CourseName": "HTY 374 - Photographing American History"
+  },
+  {
+    "CourseName": "HTY 375 - History of American Popular Culture"
+  },
+  {
+    "CourseName": "HTY 377 - Chinese Thought: Confucianism, Daoism, and Zen Buddhism"
+  },
+  {
+    "CourseName": "HTY 380 - The 1960s"
+  },
+  {
+    "CourseName": "HTY 388 - Revolution of Modern China"
+  },
+  {
+    "CourseName": "HTY 390 - Traditional Japan: Court and Warriors"
+  },
+  {
+    "CourseName": "HTY 391 - Japan’s Rise and Fall as a World Power, 1868-1945"
+  },
+  {
+    "CourseName": "HTY 394 - Selected Topics in History"
+  },
+  {
+    "CourseName": "HTY 398 - Independent Study in History"
+  },
+  {
+    "CourseName": "HTY 400 - Senior Seminar"
+  },
+  {
+    "CourseName": "HIH 203 - Mind Body Stress Reduction"
+  },
+  {
+    "CourseName": "HIH 270 - Holistic Approaches to Reproductive Health"
+  },
+  {
+    "CourseName": "HIH 280 - Holistic Health I"
+  },
+  {
+    "CourseName": "HIH 281 - Holistic Health II"
+  },
+  {
+    "CourseName": "HIH 283 - Healing and Spirituality"
+  },
+  {
+    "CourseName": "HIH 284 - Botanical Therapies"
+  },
+  {
+    "CourseName": "HIH 288 - Reiki: Energy Medicine"
+  },
+  {
+    "CourseName": "HIH 300 - Sustainable Compassion Training"
+  },
+  {
+    "CourseName": "HRD 200 - Multicultural Human Development"
+  },
+  {
+    "CourseName": "HON 100 - Honors College Writing"
+  },
+  {
+    "CourseName": "HON 102 - Honors Cultural Interpretation"
+  },
+  {
+    "CourseName": "HON 103 - Honors Socio-Cultural Analysis"
+  },
+  {
+    "CourseName": "HON 105 - Interdisciplinary Introduction to Logic & Mathematics"
+  },
+  {
+    "CourseName": "HON 107 - Honors Creative Expression"
+  },
+  {
+    "CourseName": "HON 113 - Honors Principles of Chemistry I"
+  },
+  {
+    "CourseName": "HON 115 - Introduction to Honors"
+  },
+  {
+    "CourseName": "HON 195 - Honors in Iceland"
+  },
+  {
+    "CourseName": "HON 200 - Honors Science Exploration"
+  },
+  {
+    "CourseName": "HON 201 - Honors Science Exploration (Lab)"
+  },
+  {
+    "CourseName": "HON 202 - Honors Cultural Interpretation"
+  },
+  {
+    "CourseName": "HON 203 - Honors Socio-Cultural Analysis"
+  },
+  {
+    "CourseName": "HON 207 - Honors Creative Expression"
+  },
+  {
+    "CourseName": "HON 215 - Academic Writing: Thinking and Writing in Honors"
+  },
+  {
+    "CourseName": "HON 299 - Honors Topics"
+  },
+  {
+    "CourseName": "HON 310 - Honors Ethical Inquiry, Social Responsibility, and Citizenship"
+  },
+  {
+    "CourseName": "HON 311 - Honors Community-Based Learning"
+  },
+  {
+    "CourseName": "HON 315 - Advanced Writing in Honors"
+  },
+  {
+    "CourseName": "HON 321 - Honors Internship"
+  },
+  {
+    "CourseName": "HON 330 - Mental Health Nursing"
+  },
+  {
+    "CourseName": "HON 331 - Honors Directed Research"
+  },
+  {
+    "CourseName": "HON 362 - Understanding Regulation: Applying Scissors to Red Tape"
+  },
+  {
+    "CourseName": "HON 363 - Human Factors in Regulatory Compliance and Social Policy"
+  },
+  {
+    "CourseName": "HON 387 - Design Thinking"
+  },
+  {
+    "CourseName": "HON 410 - Honors Thesis Writing Workshop"
+  },
+  {
+    "CourseName": "HON 411 - Honors Thesis I"
+  },
+  {
+    "CourseName": "HON 412 - Honors Thesis II"
+  },
+  {
+    "CourseName": "HON 415 - Honors Capstone"
+  },
+  {
+    "CourseName": "IDE 361 - Work Design"
+  },
+  {
+    "CourseName": "IDE 362 - Human Factors"
+  },
+  {
+    "CourseName": "IDE 369 - Work Design and Human Factors Laboratory"
+  },
+  {
+    "CourseName": "IDE 461 - Facility Design"
+  },
+  {
+    "CourseName": "IDE 462 - Lean Six Sigma"
+  },
+  {
+    "CourseName": "IDE 469 - Lean Facility Inventory Laboratory"
+  },
+  {
+    "CourseName": "IDE 481 - Engineering Statistics"
+  },
+  {
+    "CourseName": "ITP 210 - Technical Writing"
+  },
+  {
+    "CourseName": "ITP 230 - Project Management"
+  },
+  {
+    "CourseName": "ITP 250 - Management Information Systems"
+  },
+  {
+    "CourseName": "ITP 280 - Managing Organizations in a Technological Environment"
+  },
+  {
+    "CourseName": "ITP 310 - Facility Planning"
+  },
+  {
+    "CourseName": "ITP 320 - Workplace Safety and Health Management Systems"
+  },
+  {
+    "CourseName": "ITP 330 - Supply Chain Management"
+  },
+  {
+    "CourseName": "ITP 340 - Quality Management"
+  },
+  {
+    "CourseName": "ITP 350 - Leadership, Teambuilding, and Facilitation"
+  },
+  {
+    "CourseName": "ITP 381 - Human Resource Development"
+  },
+  {
+    "CourseName": "ITP 410 - Technical Operations and Strategies"
+  },
+  {
+    "CourseName": "ITP 490 - Operations, Finance, and Management Control"
+  },
+  {
+    "CourseName": "ITT 181 - Computing Technologies"
+  },
+  {
+    "CourseName": "ITT 200 - Introduction to Cybersecurity"
+  },
+  {
+    "CourseName": "ITT 231 - Technical Visualization"
+  },
+  {
+    "CourseName": "ITT 241 - Technical Communications"
+  },
+  {
+    "CourseName": "ITT 272 - Networking I"
+  },
+  {
+    "CourseName": "ITT 281 - Internet Website Development"
+  },
+  {
+    "CourseName": "ITT 343 - Graphic Communication Technologies"
+  },
+  {
+    "CourseName": "ITT 362 - Operating Systems Security"
+  },
+  {
+    "CourseName": "ITT 363 - Server Administration and Maintenance"
+  },
+  {
+    "CourseName": "ITT 373 - Networking II"
+  },
+  {
+    "CourseName": "ITT 376 - Network Defense"
+  },
+  {
+    "CourseName": "ITT 382 - Advanced Web Site Development"
+  },
+  {
+    "CourseName": "ITT 383 - Databases"
+  },
+  {
+    "CourseName": "ITT 385 - Integrative Programming"
+  },
+  {
+    "CourseName": "ITT 413 - Ethical Hacking"
+  },
+  {
+    "CourseName": "ITT 440 - Internship"
+  },
+  {
+    "CourseName": "ITT 451 - Cyber Laws, Policies, and Ethics"
+  },
+  {
+    "CourseName": "ITT 460 - Capstone"
+  },
+  {
+    "CourseName": "ITT 463 - Virtualization and Cloud Computing"
+  },
+  {
+    "CourseName": "ITT 482 - Computer Systems Forensics"
+  },
+  {
+    "CourseName": "ITT 486 - User Experience"
+  },
+  {
+    "CourseName": "ITT 490 - Directed Study"
+  },
+  {
+    "CourseName": "ITA 101 - Beginning Italian I"
+  },
+  {
+    "CourseName": "ITA 102 - Beginning Italian II"
+  },
+  {
+    "CourseName": "ITA 201 - Intermediate Italian I"
+  },
+  {
+    "CourseName": "ITA 202 - Intermediate Italian II"
+  },
+  {
+    "CourseName": "LAN 101 - Beginning Language I"
+  },
+  {
+    "CourseName": "LAN 102 - Beginning Language II"
+  },
+  {
+    "CourseName": "LAN 201 - Intermediate Language I"
+  },
+  {
+    "CourseName": "LAN 202 - Intermediate Language II"
+  },
+  {
+    "CourseName": "LAN 398 - Independent Study"
+  },
+  {
+    "CourseName": "LAT 101 - Beginning Latin I"
+  },
+  {
+    "CourseName": "LAT 102 - Beginning Latin II"
+  },
+  {
+    "CourseName": "LAT 201 - Intermediate Latin I"
+  },
+  {
+    "CourseName": "LAT 202 - Intermediate Latin II"
+  },
+  {
+    "CourseName": "LOS 112 - Microsoft Excel"
+  },
+  {
+    "CourseName": "LOS 114 - PowerPoint"
+  },
+  {
+    "CourseName": "LOS 120 - Statistics for Informed Decision Making"
+  },
+  {
+    "CourseName": "LOS 210 - Creative Critical Inquiry"
+  },
+  {
+    "CourseName": "LOS 270 - Introduction to Leadership"
+  },
+  {
+    "CourseName": "LOS 299 - Writing in the Major"
+  },
+  {
+    "CourseName": "LOS 300 - Organizational Theory"
+  },
+  {
+    "CourseName": "LOS 301 - Group Dynamics"
+  },
+  {
+    "CourseName": "LOS 302 - Organizational Behavior"
+  },
+  {
+    "CourseName": "LOS 304 - Organizational Budgeting and Finance"
+  },
+  {
+    "CourseName": "LOS 310 - Science, Technology, and Society"
+  },
+  {
+    "CourseName": "LOS 312 - Human Resource Management"
+  },
+  {
+    "CourseName": "LOS 314 - Employee Relations"
+  },
+  {
+    "CourseName": "LOS 316 - Diversity in Organizations"
+  },
+  {
+    "CourseName": "LOS 327 - Leading through Conflict"
+  },
+  {
+    "CourseName": "LOS 329 - Research Methods"
+  },
+  {
+    "CourseName": "LOS 330 - Cultural Contexts"
+  },
+  {
+    "CourseName": "LOS 336 - Dealing with Difficult People and Behaviors"
+  },
+  {
+    "CourseName": "LOS 340 - Presidential Civic Leadership Academy I"
+  },
+  {
+    "CourseName": "LOS 341 - Presidential Civic Leadership Academy II"
+  },
+  {
+    "CourseName": "LOS 345 - Leadership and Film"
+  },
+  {
+    "CourseName": "LOS 350 - Leadership"
+  },
+  {
+    "CourseName": "LOS 360 - Innovation in Organizations"
+  },
+  {
+    "CourseName": "LOS 387 - Collegiate Leadership Competition"
+  },
+  {
+    "CourseName": "LOS 398 - Independent Study"
+  },
+  {
+    "CourseName": "LOS 399 - Special Topics"
+  },
+  {
+    "CourseName": "LOS 400 - Senior Seminar: Global Citizenship"
+  },
+  {
+    "CourseName": "LOS 422 - Leadership in the Public/Nonprofit Sectors"
+  },
+  {
+    "CourseName": "LOS 439 - Women’s Ways of Leading: Building Partnerships, Creating Change"
+  },
+  {
+    "CourseName": "LOS 440 - Leading Organizational Change"
+  },
+  {
+    "CourseName": "LOS 450 - Applied Leadership Practicum"
+  },
+  {
+    "CourseName": "LOS 470 - Leadership Study Abroad"
+  },
+  {
+    "CourseName": "LSH 240 - Introducing the Humanities"
+  },
+  {
+    "CourseName": "LSH 340 - Topics in the Humanities"
+  },
+  {
+    "CourseName": "LSH 398 - Independent Study in the Humanities"
+  },
+  {
+    "CourseName": "LSH 440 - Capstone in the Humanities"
+  },
+  {
+    "CourseName": "LIN 105 - Contrastive Analysis: ASL and English"
+  },
+  {
+    "CourseName": "LIN 112 - The Birth of a Language"
+  },
+  {
+    "CourseName": "LIN 130 - Language Revitalization and Reclamation Methodologies"
+  },
+  {
+    "CourseName": "LIN 185 - Language, Mind, and Society: An Introduction to Linguistics"
+  },
+  {
+    "CourseName": "LIN 186 - Introduction to Linguistics: Lab"
+  },
+  {
+    "CourseName": "LIN 203 - Introduction to the Deaf World"
+  },
+  {
+    "CourseName": "LIN 211 - Anatomy and Physiology of the Speech and Hearing Mechanism"
+  },
+  {
+    "CourseName": "LIN 212 - Speech Science"
+  },
+  {
+    "CourseName": "LIN 213 - Introduction to Audiology"
+  },
+  {
+    "CourseName": "LIN 236 - Not Yet Ready for Prime Time Interpreter"
+  },
+  {
+    "CourseName": "LIN 309 - Language Acquisition"
+  },
+  {
+    "CourseName": "LIN 310 - Signs of Language in the Brain"
+  },
+  {
+    "CourseName": "LIN 311 - Phonetics"
+  },
+  {
+    "CourseName": "LIN 312 - Phonology and Morphology"
+  },
+  {
+    "CourseName": "LIN 313 - Syntax"
+  },
+  {
+    "CourseName": "LIN 316 - Crosslinguistic Variation"
+  },
+  {
+    "CourseName": "LIN 317 - Two Languages, One Mind: Introduction to Second Language Acquisition and Bilingualism"
+  },
+  {
+    "CourseName": "LIN 331 - ASL/English Interpreting"
+  },
+  {
+    "CourseName": "LIN 332 - Consecutive Interpreting and Deaf/Hearing Interpreter Teams"
+  },
+  {
+    "CourseName": "LIN 333 - Interpreting: Source Language ASL"
+  },
+  {
+    "CourseName": "LIN 334 - Interpreting: Source Language English"
+  },
+  {
+    "CourseName": "LIN 336 - Observational Internship"
+  },
+  {
+    "CourseName": "LIN 394 - Teaching Internship"
+  },
+  {
+    "CourseName": "LIN 395 - Research Internship"
+  },
+  {
+    "CourseName": "LIN 398 - Independent Study"
+  },
+  {
+    "CourseName": "LIN 401 - Foundations of Interpreting I"
+  },
+  {
+    "CourseName": "LIN 402 - Foundations of Interpreting II"
+  },
+  {
+    "CourseName": "LIN 403 - Foundations of Interpreting III"
+  },
+  {
+    "CourseName": "LIN 404 - Foundations of Interpreting IV"
+  },
+  {
+    "CourseName": "LIN 409 - Educational Interpreting"
+  },
+  {
+    "CourseName": "LIN 410 - Ethical Decision Making in ASL/English Interpreting"
+  },
+  {
+    "CourseName": "LIN 413 - Supervised Mentoring"
+  },
+  {
+    "CourseName": "LIN 423 - Seminar in Syntax"
+  },
+  {
+    "CourseName": "LIN 425 - Special Topics in ASL/English Interpreting"
+  },
+  {
+    "CourseName": "LIN 426 - Special Topics in Theoretical Linguistics"
+  },
+  {
+    "CourseName": "LIN 431 - Medical Interpreting I: The Essential Piece"
+  },
+  {
+    "CourseName": "LIN 432 - Medical Interpreting II: Interpreting Medical Terminology and Body Systems"
+  },
+  {
+    "CourseName": "LIN 434 - Pre-practicum"
+  },
+  {
+    "CourseName": "LIN 435 - Advanced Interpreting and Practicum I"
+  },
+  {
+    "CourseName": "LIN 436 - Practicum II"
+  },
+  {
+    "CourseName": "LIN 490 - Introduction to Language Research"
+  },
+  {
+    "CourseName": "LIN 498 - Thesis"
+  },
+  {
+    "CourseName": "MAT 100 - Mathematics Bridge"
+  },
+  {
+    "CourseName": "MAT 101 - Algebraic Bridge"
+  },
+  {
+    "CourseName": "MAT 105 - Mathematics for Quantitative Decision Making"
+  },
+  {
+    "CourseName": "MAT 108 - College Algebra"
+  },
+  {
+    "CourseName": "MAT 120 - Introduction to Statistics"
+  },
+  {
+    "CourseName": "MAT 131 - Number Systems for Elementary Teachers"
+  },
+  {
+    "CourseName": "MAT 132 - Quantitative Reasoning for Elementary School Teachers"
+  },
+  {
+    "CourseName": "MAT 140 - Pre-Calculus Mathematics"
+  },
+  {
+    "CourseName": "MAT 145 - Discrete Mathematics I"
+  },
+  {
+    "CourseName": "MAT 152 - Calculus A"
+  },
+  {
+    "CourseName": "MAT 153 - Calculus B"
+  },
+  {
+    "CourseName": "MAT 210 - Business Statistics"
+  },
+  {
+    "CourseName": "MAT 220 - Statistics for the Biological Sciences"
+  },
+  {
+    "CourseName": "MAT 231 - Algebra for Elementary Teachers"
+  },
+  {
+    "CourseName": "MAT 232 - Geometry for Elementary Teachers"
+  },
+  {
+    "CourseName": "MAT 242 - Applied Problem Solving"
+  },
+  {
+    "CourseName": "MAT 252 - Calculus C"
+  },
+  {
+    "CourseName": "MAT 264 - Statistical Software Packages"
+  },
+  {
+    "CourseName": "MAT 281 - Introduction to Probability"
+  },
+  {
+    "CourseName": "MAT 282 - Statistical Inference"
+  },
+  {
+    "CourseName": "MAT 290 - Foundations of Mathematics"
+  },
+  {
+    "CourseName": "MAT 295 - Linear Algebra"
+  },
+  {
+    "CourseName": "MAT 350 - Differential Equations"
+  },
+  {
+    "CourseName": "MAT 352 - Real Analysis"
+  },
+  {
+    "CourseName": "MAT 355 - Complex Analysis"
+  },
+  {
+    "CourseName": "MAT 364 - Numerical Analysis"
+  },
+  {
+    "CourseName": "MAT 366 - Deterministic Models in Operations Research"
+  },
+  {
+    "CourseName": "MAT 371 - College Geometry"
+  },
+  {
+    "CourseName": "MAT 380 - Probability and Statistics"
+  },
+  {
+    "CourseName": "MAT 383 - System Modeling and Simulation"
+  },
+  {
+    "CourseName": "MAT 387 - Introduction to Applied/Biostatistical Methods"
+  },
+  {
+    "CourseName": "MAT 392 - Theory of Numbers"
+  },
+  {
+    "CourseName": "MAT 395 - Abstract Algebra"
+  },
+  {
+    "CourseName": "MAT 460 - Mathematical Modeling"
+  },
+  {
+    "CourseName": "MAT 461 - Stochastic Models in Operations Research"
+  },
+  {
+    "CourseName": "MAT 470 - Non-Euclidean Geometry"
+  },
+  {
+    "CourseName": "MAT 484 - Design and Analysis of Experiments"
+  },
+  {
+    "CourseName": "MAT 485 - Introduction to Applied Regression"
+  },
+  {
+    "CourseName": "MAT 488 - Introduction to Data Mining"
+  },
+  {
+    "CourseName": "MAT 490 - Topology"
+  },
+  {
+    "CourseName": "MAT 492 - Graph Theory and Combinatorics"
+  },
+  {
+    "CourseName": "MAT 497 - Independent Study/Internship in Mathematics"
+  },
+  {
+    "CourseName": "MAT 498 - Topics"
+  },
+  {
+    "CourseName": "MME 400 - Elementary Mathematics Methods"
+  },
+  {
+    "CourseName": "MEE 150 - Applied Mechanics: Statics"
+  },
+  {
+    "CourseName": "MEE 230 - Thermodynamics I: Laws and Properties"
+  },
+  {
+    "CourseName": "MEE 251 - Strength of Materials"
+  },
+  {
+    "CourseName": "MEE 259 - Statics and Strength of Materials Laboratory"
+  },
+  {
+    "CourseName": "MEE 260 - Materials Science for Engineers"
+  },
+  {
+    "CourseName": "MEE 270 - Applied Mechanics: Dynamics"
+  },
+  {
+    "CourseName": "MEE 331 - Thermodynamics II: Flows and Cycles"
+  },
+  {
+    "CourseName": "MEE 332 - Fundamentals of Combustion Science"
+  },
+  {
+    "CourseName": "MEE 339 - Thermodynamics Laboratory"
+  },
+  {
+    "CourseName": "MEE 353 - Applied Stress Analysis"
+  },
+  {
+    "CourseName": "MEE 356 - Introduction to the Finite Element Method"
+  },
+  {
+    "CourseName": "MEE 360 - Fluid Mechanics"
+  },
+  {
+    "CourseName": "MEE 372 - Computer-Aided Design of Machine Elements"
+  },
+  {
+    "CourseName": "MEE 373 - Design of Machines and Mechanisms"
+  },
+  {
+    "CourseName": "MEE 374 - Theory and Applications of Vibrations"
+  },
+  {
+    "CourseName": "MEE 379 - Dynamics and Vibrations Laboratory"
+  },
+  {
+    "CourseName": "MEE 422 - Spacecraft Systems Engineering"
+  },
+  {
+    "CourseName": "MEE 432 - Heat Transfer"
+  },
+  {
+    "CourseName": "MEE 439 - Fluid Mechanics and Heat Transfer Laboratory"
+  },
+  {
+    "CourseName": "MEE 454 - Advanced Material Behavior, Testing and Processing"
+  },
+  {
+    "CourseName": "MEE 463 - Aerodynamics"
+  },
+  {
+    "CourseName": "MIS 201 - Leadership Laboratory I"
+  },
+  {
+    "CourseName": "MIS 202 - Leadership Laboratory II"
+  },
+  {
+    "CourseName": "MIS 213 - Introduction to ROTC I"
+  },
+  {
+    "CourseName": "MIS 214 - Introduction to ROTC II"
+  },
+  {
+    "CourseName": "MIS 225 - History of the Army"
+  },
+  {
+    "CourseName": "MIS 301 - Self and Team Development I"
+  },
+  {
+    "CourseName": "MIS 302 - Self and Team Development II"
+  },
+  {
+    "CourseName": "MIS 401 - Leading Small Organizations I"
+  },
+  {
+    "CourseName": "MIS 402 - Leading Small Organizations II"
+  },
+  {
+    "CourseName": "MIS 411 - Leadership and Management I"
+  },
+  {
+    "CourseName": "MIS 412 - Leadership and Management II"
+  },
+  {
+    "CourseName": "MIS 495 - Officer Internship"
+  },
+  {
+    "CourseName": "MUS 100 - Music Appreciation and History"
+  },
+  {
+    "CourseName": "MUS 101 - USM Music Ensembles"
+  },
+  {
+    "CourseName": "MUS 103 - Introduction to Jazz"
+  },
+  {
+    "CourseName": "MUS 110 - Fundamentals of Music"
+  },
+  {
+    "CourseName": "MUS 150 - Piano Class 1"
+  },
+  {
+    "CourseName": "MUS 151 - Piano Class 2"
+  },
+  {
+    "CourseName": "MUS 204 - Rock and Roll: Subversive or Submissive?"
+  },
+  {
+    "CourseName": "MUS 205 - Creative Expression through Music Improvisation"
+  },
+  {
+    "CourseName": "MUS 210 - Songwriting"
+  },
+  {
+    "CourseName": "MUS 244 - Basic Conducting"
+  },
+  {
+    "CourseName": "MUS 250 - Piano Class 3"
+  },
+  {
+    "CourseName": "MUS 251 - Piano Class 4"
+  },
+  {
+    "CourseName": "MUS 252 - Jazz Piano Class 1"
+  },
+  {
+    "CourseName": "MUS 253 - Jazz Piano Class 2"
+  },
+  {
+    "CourseName": "MUS 256 - Diction for Singers 1: Italian and French"
+  },
+  {
+    "CourseName": "MUS 257 - Diction for Singers 2: French and German"
+  },
+  {
+    "CourseName": "MUS 271 - Principles of Digital Audio and Music Production"
+  },
+  {
+    "CourseName": "MUS 301 - You Can’t Sing That: Music Censorship"
+  },
+  {
+    "CourseName": "MUS 310 - Organ Improvisation 1"
+  },
+  {
+    "CourseName": "MUS 311 - Organ Improvisation 2"
+  },
+  {
+    "CourseName": "MUS 321 - Literature of the Major Instrument"
+  },
+  {
+    "CourseName": "MUS 322 - Piano Literature 2"
+  },
+  {
+    "CourseName": "MUS 323 - Organ Literature 2"
+  },
+  {
+    "CourseName": "MUS 337 - Jazz Arranging"
+  },
+  {
+    "CourseName": "MUS 356 - Composers Workshop"
+  },
+  {
+    "CourseName": "MUS 360 - Advanced Keyboard Skills 1"
+  },
+  {
+    "CourseName": "MUS 361 - Advanced Keyboard Skills 2"
+  },
+  {
+    "CourseName": "MUS 371 - Advanced Principles of Digital Audio and Music Production"
+  },
+  {
+    "CourseName": "MUS 372 - Pedagogy of the Major Instrument"
+  },
+  {
+    "CourseName": "MUS 373 - Piano Pedagogy 2"
+  },
+  {
+    "CourseName": "MUS 374 - Jazz Pedagogy"
+  },
+  {
+    "CourseName": "MUS 376 - Class Piano Teaching 1"
+  },
+  {
+    "CourseName": "MUS 377 - Class Piano Teaching 2"
+  },
+  {
+    "CourseName": "MUS 378 - Practicum in Piano Pedagogy 1"
+  },
+  {
+    "CourseName": "MUS 379 - Practicum in Piano Pedagogy 2"
+  },
+  {
+    "CourseName": "MUS 380 - Jazz Improvisation 1"
+  },
+  {
+    "CourseName": "MUS 381 - Jazz Improvisation 2"
+  },
+  {
+    "CourseName": "MUS 400 - Southern Maine Symphony Orchestra"
+  },
+  {
+    "CourseName": "MUS 401 - University Chorale"
+  },
+  {
+    "CourseName": "MUS 402 - University Concert Band"
+  },
+  {
+    "CourseName": "MUS 403 - Composers Ensemble"
+  },
+  {
+    "CourseName": "MUS 404 - Opera Workshop"
+  },
+  {
+    "CourseName": "MUS 405 - Chamber Singers"
+  },
+  {
+    "CourseName": "MUS 406 - Chamber Music"
+  },
+  {
+    "CourseName": "MUS 407 - Jazz Ensemble"
+  },
+  {
+    "CourseName": "MUS 408 - Osher Wind Ensemble"
+  },
+  {
+    "CourseName": "MUS 409 - Vocal Jazz Ensemble"
+  },
+  {
+    "CourseName": "MUS 410 - Jazz Combo"
+  },
+  {
+    "CourseName": "MUS 412 - Music Theatre Workshop"
+  },
+  {
+    "CourseName": "MUS 440 - Studio Class"
+  },
+  {
+    "CourseName": "MUS 442 - Recital Class"
+  },
+  {
+    "CourseName": "MUS 452 - Accompanying"
+  },
+  {
+    "CourseName": "MUS 480 - Bibliography and Research in Music"
+  },
+  {
+    "CourseName": "MUS 498 - Independent Study in Music"
+  },
+  {
+    "CourseName": "MUE 111 - Cultural and Linguistic Diversity for Music Educators"
+  },
+  {
+    "CourseName": "MUE 113 - Vocal Techniques for Instrumentalists"
+  },
+  {
+    "CourseName": "MUE 114 - Guitar Techniques"
+  },
+  {
+    "CourseName": "MUE 150 - ProSeminar II"
+  },
+  {
+    "CourseName": "MUE 151 - Brass Techniques"
+  },
+  {
+    "CourseName": "MUE 152 - Percussion Techniques"
+  },
+  {
+    "CourseName": "MUE 210 - ProSeminar III"
+  },
+  {
+    "CourseName": "MUE 211 - Teaching and Creative and Critical Listening PK-12"
+  },
+  {
+    "CourseName": "MUE 250 - ProSeminar IV"
+  },
+  {
+    "CourseName": "MUE 251 - Teaching Vocal Music PK-12"
+  },
+  {
+    "CourseName": "MUE 252 - Choral Conducting"
+  },
+  {
+    "CourseName": "MUE 310 - ProSeminar V"
+  },
+  {
+    "CourseName": "MUE 312 - Teaching Instrumental Music PK-12"
+  },
+  {
+    "CourseName": "MUE 313 - Instrumental Conducting"
+  },
+  {
+    "CourseName": "MUE 315 - Woodwind Techniques"
+  },
+  {
+    "CourseName": "MUE 350 - ProSeminar VI"
+  },
+  {
+    "CourseName": "MUE 351 - Teaching Improvisation in Music PK-12"
+  },
+  {
+    "CourseName": "MUE 352 - String Techniques"
+  },
+  {
+    "CourseName": "MUE 355 - Teaching Music Composition PK-12"
+  },
+  {
+    "CourseName": "MUE 412 - Woodwind Techniques"
+  },
+  {
+    "CourseName": "MUE 450 - Professional Internship"
+  },
+  {
+    "CourseName": "MUE 451 - Professional Portfolio"
+  },
+  {
+    "CourseName": "MUE 452 - Research in Music Education"
+  },
+  {
+    "CourseName": "MUH 105 - Multi-Cultural Perspectives of American Popular Music and Jazz"
+  },
+  {
+    "CourseName": "MUH 206 - Jazz History"
+  },
+  {
+    "CourseName": "MUH 222 - Music History Survey 1"
+  },
+  {
+    "CourseName": "MUH 223 - Music History Survey 2"
+  },
+  {
+    "CourseName": "MUH 320 - Seminar in Music History"
+  },
+  {
+    "CourseName": "MUH 325 - The History of Musical Theatre in America"
+  },
+  {
+    "CourseName": "MUH 329 - Devils, Dwarves and Dragons"
+  },
+  {
+    "CourseName": "MUP 101 - Applied Music"
+  },
+  {
+    "CourseName": "MUP 102 - Applied Music"
+  },
+  {
+    "CourseName": "MUP 201 - Applied Music"
+  },
+  {
+    "CourseName": "MUP 202 - Applied Music"
+  },
+  {
+    "CourseName": "MUP 203 - Applied Music"
+  },
+  {
+    "CourseName": "MUP 204 - Applied Music Jazz"
+  },
+  {
+    "CourseName": "MUP 205 - Applied Music Jazz"
+  },
+  {
+    "CourseName": "MUP 206 - Applied Classical Voice Coaching"
+  },
+  {
+    "CourseName": "MUP 207 - Applied Classical Voice Coaching"
+  },
+  {
+    "CourseName": "MUP 208 - Applied Musical Theatre Voice Coaching"
+  },
+  {
+    "CourseName": "MUP 209 - Applied Musical Theatre Voice Coaching"
+  },
+  {
+    "CourseName": "MUP 390 - Recital"
+  },
+  {
+    "CourseName": "MUP 490 - Senior Recital / Seminar"
+  },
+  {
+    "CourseName": "MUP 491 - Recital"
+  },
+  {
+    "CourseName": "MUT 110 - Music Theory 1"
+  },
+  {
+    "CourseName": "MUT 111 - Sight Singing and Aural Skills 1"
+  },
+  {
+    "CourseName": "MUT 112 - Music Theory 2"
+  },
+  {
+    "CourseName": "MUT 113 - Sight Singing and Aural Skills 2"
+  },
+  {
+    "CourseName": "MUT 210 - Music Theory 3"
+  },
+  {
+    "CourseName": "MUT 211 - Sight Singing and Aural Skills 3"
+  },
+  {
+    "CourseName": "MUT 212 - Music Theory 4"
+  },
+  {
+    "CourseName": "MUT 213 - Sight Singing and Aural Skills 4"
+  },
+  {
+    "CourseName": "MUT 330 - Form and Analysis"
+  },
+  {
+    "CourseName": "MUT 332 - Counterpoint"
+  },
+  {
+    "CourseName": "NUR 252 - Human Nutrition"
+  },
+  {
+    "CourseName": "NUR 270 - Intro to Professional Nursing, Leadership, and Ethics"
+  },
+  {
+    "CourseName": "NUR 300 - Health Assessment"
+  },
+  {
+    "CourseName": "NUR 301 - Health Assessment Lab"
+  },
+  {
+    "CourseName": "NUR 302 - Pharmacology"
+  },
+  {
+    "CourseName": "NUR 306 - Fundamentals in Nursing Arts and Science"
+  },
+  {
+    "CourseName": "NUR 307 - Fundamentals in Nursing Lab"
+  },
+  {
+    "CourseName": "NUR 308 - Concepts of Professional Nursing Practice"
+  },
+  {
+    "CourseName": "NUR 309 - Health Assessment for RNs"
+  },
+  {
+    "CourseName": "NUR 310 - Health Assessment Lab for RNs"
+  },
+  {
+    "CourseName": "NUR 313 - Intermediate Nursing Skills and Simulation Lab"
+  },
+  {
+    "CourseName": "NUR 314 - RN Credit Option"
+  },
+  {
+    "CourseName": "NUR 318 - Evidence-based Practice in Nursing"
+  },
+  {
+    "CourseName": "NUR 319 - Qualitative Inquiry in Nursing"
+  },
+  {
+    "CourseName": "NUR 321 - Health-Related Research"
+  },
+  {
+    "CourseName": "NUR 323 - Adult Health Nursing I Lecture"
+  },
+  {
+    "CourseName": "NUR 325 - Adult Health Nursing I Clinical"
+  },
+  {
+    "CourseName": "NUR 329 - Mental Health Skills and Simulation Lab"
+  },
+  {
+    "CourseName": "NUR 330 - Mental Health Nursing"
+  },
+  {
+    "CourseName": "NUR 331 - Mental Health Nursing Clinical"
+  },
+  {
+    "CourseName": "NUR 341 - Community & Public Health Service Learning"
+  },
+  {
+    "CourseName": "NUR 356 - Community and Public Health Nursing"
+  },
+  {
+    "CourseName": "NUR 370 - Theory for Clinical Practice"
+  },
+  {
+    "CourseName": "NUR 386 - Geary Clinical Cooperative"
+  },
+  {
+    "CourseName": "NUR 399 - Topics"
+  },
+  {
+    "CourseName": "NUR 413 - Advanced Nursing Skills and Simulation Lab"
+  },
+  {
+    "CourseName": "NUR 417 - Child Health Skills and Simulation Lab"
+  },
+  {
+    "CourseName": "NUR 418 - Reproductive Health Skills and Simulation Lab"
+  },
+  {
+    "CourseName": "NUR 419 - Community Nursing Partnerships for RNs Clinical"
+  },
+  {
+    "CourseName": "NUR 421 - Reproductive and Sexual Health Nursing"
+  },
+  {
+    "CourseName": "NUR 422 - Reproductive and Sexual Health Nursing Clinical"
+  },
+  {
+    "CourseName": "NUR 423 - Adult Health Nursing II Lecture"
+  },
+  {
+    "CourseName": "NUR 425 - Adult Health Nursing II Clinical"
+  },
+  {
+    "CourseName": "NUR 427 - Child Health Nursing"
+  },
+  {
+    "CourseName": "NUR 428 - Child Health Nursing Clinical"
+  },
+  {
+    "CourseName": "NUR 429 - Clinically Applied Pharmacology"
+  },
+  {
+    "CourseName": "NUR 470 - Advanced Professional Nursing, Leadership, and Ethics"
+  },
+  {
+    "CourseName": "NUR 474 - Professional Issues: Leadership, Management, and Organizations for RNs"
+  },
+  {
+    "CourseName": "NUR 476 - Theory Related to Clinical Specialty for RNs"
+  },
+  {
+    "CourseName": "NUR 480 - Practicum/Care Management Seminar and Clinical"
+  },
+  {
+    "CourseName": "NUR 489 - Role Transition to Professional Practice"
+  },
+  {
+    "CourseName": "NUR 490 - Capstone in Nursing"
+  },
+  {
+    "CourseName": "NUR 495 - Directed Study"
+  },
+  {
+    "CourseName": "OTH 201 - Joy in Doing: Foundations of OT Practice"
+  },
+  {
+    "CourseName": "OTH 203 - The Caring Practitioner"
+  },
+  {
+    "CourseName": "OTH 206 - The Curious Practitioner"
+  },
+  {
+    "CourseName": "OTH 207 - Justice and Occupation"
+  },
+  {
+    "CourseName": "OTH 303 - Occupation-based Interventions for Adults"
+  },
+  {
+    "CourseName": "OTH 304 - Occupation-based Interventions for Children"
+  },
+  {
+    "CourseName": "OTH 305 - Occupation-based Interventions for Mental Health"
+  },
+  {
+    "CourseName": "OTH 306 - Occupation-based Interventions for Adults Lab"
+  },
+  {
+    "CourseName": "OTH 307 - Occupation-based Interventions for Children Lab"
+  },
+  {
+    "CourseName": "OTH 308 - Occupation-based Interventions for Mental Health Lab"
+  },
+  {
+    "CourseName": "OTH 310 - Care and Justice in OT Management"
+  },
+  {
+    "CourseName": "OTH 314 - The Wonders of Human Movement"
+  },
+  {
+    "CourseName": "OTH 315 - The Wonders of Human Movement Lab"
+  },
+  {
+    "CourseName": "OTH 320 - Level I Fieldwork: Community-Engaged Mental Health"
+  },
+  {
+    "CourseName": "OTH 330 - Level I Fieldwork: International/Populations"
+  },
+  {
+    "CourseName": "OTH 335 - Occupational Science"
+  },
+  {
+    "CourseName": "OTH 340 - Level I Fieldwork: Interprofessional Education"
+  },
+  {
+    "CourseName": "OTH 400 - Global Perspectives on Occupation"
+  },
+  {
+    "CourseName": "OTH 401 - Assessment and Outcomes for Occupational Participation"
+  },
+  {
+    "CourseName": "OTH 416 - Transition to Practice"
+  },
+  {
+    "CourseName": "OTH 417 - A Joyful Life: Occupational Wellness across the Lifespan"
+  },
+  {
+    "CourseName": "OTH 440 - Baccalaureate Project I"
+  },
+  {
+    "CourseName": "OTH 450 - Baccalaureate Project II"
+  },
+  {
+    "CourseName": "OTH 460 - First Level II Fieldwork"
+  },
+  {
+    "CourseName": "OTH 470 - Second Level II Fieldwork"
+  },
+  {
+    "CourseName": "PHI 105 - Introduction to Philosophy: Philosophy Through Its History"
+  },
+  {
+    "CourseName": "PHI 200 - World Philosophy Day"
+  },
+  {
+    "CourseName": "PHI 201 - Public Philosophy"
+  },
+  {
+    "CourseName": "PHI 205 - Logic"
+  },
+  {
+    "CourseName": "PHI 211 - Media Ethics"
+  },
+  {
+    "CourseName": "PHI 212 - Environmental Ethics"
+  },
+  {
+    "CourseName": "PHI 215 - Philosophy of Literature"
+  },
+  {
+    "CourseName": "PHI 220 - Philosophy of Art and Visual Culture"
+  },
+  {
+    "CourseName": "PHI 221 - Philosophy of Film"
+  },
+  {
+    "CourseName": "PHI 225 - Philosophy of the Mind"
+  },
+  {
+    "CourseName": "PHI 230 - Philosophy of Religion"
+  },
+  {
+    "CourseName": "PHI 235 - Philosophy, Social Media, and Security"
+  },
+  {
+    "CourseName": "PHI 241 - Work: Economics, Ethics, and Politics"
+  },
+  {
+    "CourseName": "PHI 245 - Africa, Social Justice, and Exile"
+  },
+  {
+    "CourseName": "PHI 250 - Philosophy of Science"
+  },
+  {
+    "CourseName": "PHI 260 - Philosophy of Law"
+  },
+  {
+    "CourseName": "PHI 270 - Epistemology"
+  },
+  {
+    "CourseName": "PHI 275 - The Nature of Compassion"
+  },
+  {
+    "CourseName": "PHI 285 - Biology, Technology, and Ethics"
+  },
+  {
+    "CourseName": "PHI 290 - Problems in Philosophy"
+  },
+  {
+    "CourseName": "PHI 291 - Death and Dying"
+  },
+  {
+    "CourseName": "PHI 295 - Medicine, Madness, and Disease"
+  },
+  {
+    "CourseName": "PHI 301 - Ethical Theories"
+  },
+  {
+    "CourseName": "PHI 305 - Political Philosophy"
+  },
+  {
+    "CourseName": "PHI 310 - History of Ancient Philosophy"
+  },
+  {
+    "CourseName": "PHI 311 - Happiness and the Good Life"
+  },
+  {
+    "CourseName": "PHI 315 - Eastern Philosophy"
+  },
+  {
+    "CourseName": "PHI 320 - History of Medieval and Renaissance Philosophy"
+  },
+  {
+    "CourseName": "PHI 330 - The Enlightenment: Modern Philosophy from Descartes to Kant"
+  },
+  {
+    "CourseName": "PHI 350 - American Philosophy"
+  },
+  {
+    "CourseName": "PHI 355 - Contemporary Feminism"
+  },
+  {
+    "CourseName": "PHI 360 - Existentialism"
+  },
+  {
+    "CourseName": "PHI 370 - Analytic Philosophy"
+  },
+  {
+    "CourseName": "PHI 380 - Contemporary Philosophy"
+  },
+  {
+    "CourseName": "PHI 395 - Philosophy Teaching Internship"
+  },
+  {
+    "CourseName": "PHI 398 - Independent Study"
+  },
+  {
+    "CourseName": "PHI 400 - Philosophy Topics Seminar"
+  },
+  {
+    "CourseName": "PHI 405 - Major Figure Seminar in Philosophy"
+  },
+  {
+    "CourseName": "PHI 409 - Research Seminar"
+  },
+  {
+    "CourseName": "PHI 410 - Senior Thesis"
+  },
+  {
+    "CourseName": "PHE 106 - NCAA Life Choices"
+  },
+  {
+    "CourseName": "PHE 203 - Athletic Training for Coaches"
+  },
+  {
+    "CourseName": "PHE 302 - Coaching Philosophy and Fundamentals"
+  },
+  {
+    "CourseName": "PHE 303 - Coaching and Officiating Basketball"
+  },
+  {
+    "CourseName": "PHE 308 - Coaching and Officiating Ice Hockey"
+  },
+  {
+    "CourseName": "PHE 309 - Coaching and Officiating Track and Field"
+  },
+  {
+    "CourseName": "PHE 311 - Coaching and Officiating Soccer"
+  },
+  {
+    "CourseName": "PHE 314 - Organization and Administration of Athletics"
+  },
+  {
+    "CourseName": "PHE 315 - Coaching and Officiating Field Hockey"
+  },
+  {
+    "CourseName": "PHE 316 - Coaching and Officiating Volleyball"
+  },
+  {
+    "CourseName": "PHE 335 - Coaching and Officiating Baseball"
+  },
+  {
+    "CourseName": "PHE 336 - Coaching and Officiating Softball"
+  },
+  {
+    "CourseName": "PHE 391 - Field Experience/Internship"
+  },
+  {
+    "CourseName": "PHE 398 - Independent Study in Physical Education"
+  },
+  {
+    "CourseName": "PHY 101 - Introduction to Physics"
+  },
+  {
+    "CourseName": "PHY 102 - Introduction to Physics Laboratory"
+  },
+  {
+    "CourseName": "PHY 111 - Elements of Physics I"
+  },
+  {
+    "CourseName": "PHY 112 - Elements of Physics II"
+  },
+  {
+    "CourseName": "PHY 114 - Introductory Physics Laboratory I"
+  },
+  {
+    "CourseName": "PHY 116 - Introductory Physics Laboratory II"
+  },
+  {
+    "CourseName": "PHY 121 - General Physics I"
+  },
+  {
+    "CourseName": "PHY 123 - General Physics II"
+  },
+  {
+    "CourseName": "PHY 211 - Modern Physics I"
+  },
+  {
+    "CourseName": "PHY 213 - Modern Physics II"
+  },
+  {
+    "CourseName": "PHY 240 - Intermediate Laboratory I"
+  },
+  {
+    "CourseName": "PHY 251 - Principles of Electronics"
+  },
+  {
+    "CourseName": "PHY 261 - Computational Physics"
+  },
+  {
+    "CourseName": "PHY 281 - Astrophysics"
+  },
+  {
+    "CourseName": "PHY 314 - Statistical and Thermal Physics"
+  },
+  {
+    "CourseName": "PHY 321 - Classical Mechanics I"
+  },
+  {
+    "CourseName": "PHY 323 - Classical Mechanics II"
+  },
+  {
+    "CourseName": "PHY 331 - Electrodynamics I"
+  },
+  {
+    "CourseName": "PHY 333 - Electrodynamics II"
+  },
+  {
+    "CourseName": "PHY 341 - Quantum Mechanics"
+  },
+  {
+    "CourseName": "PHY 375 - Optics"
+  },
+  {
+    "CourseName": "PHY 390 - Independent Laboratory Study in Physics"
+  },
+  {
+    "CourseName": "PHY 400 - Physics Capstone"
+  },
+  {
+    "CourseName": "PHY 410 - Independent Study or Internship in Physics"
+  },
+  {
+    "CourseName": "POS 101 - Introduction to American Government"
+  },
+  {
+    "CourseName": "POS 102 - People and Politics"
+  },
+  {
+    "CourseName": "POS 104 - Introduction to International Relations"
+  },
+  {
+    "CourseName": "POS 120 - Government and Politics of Maine"
+  },
+  {
+    "CourseName": "POS 203 - Introduction to Political Science Research"
+  },
+  {
+    "CourseName": "POS 205 - Introduction to Comparative Politics"
+  },
+  {
+    "CourseName": "POS 209 - The Global Politics of Soccer"
+  },
+  {
+    "CourseName": "POS 245 - French Politics and Government"
+  },
+  {
+    "CourseName": "POS 256 - Media and Politics"
+  },
+  {
+    "CourseName": "POS 261 - The American Congress"
+  },
+  {
+    "CourseName": "POS 262 - The American Presidency"
+  },
+  {
+    "CourseName": "POS 280 - Issues Before the United Nations"
+  },
+  {
+    "CourseName": "POS 290 - Introduction to Political Theory"
+  },
+  {
+    "CourseName": "POS 310 - Internet and Politics"
+  },
+  {
+    "CourseName": "POS 312 - The Politics of Nuclear Weapons"
+  },
+  {
+    "CourseName": "POS 315 - Media Law"
+  },
+  {
+    "CourseName": "POS 333 - Theories of Democratization"
+  },
+  {
+    "CourseName": "POS 334 - Race and Ethnicity in U.S. Politics"
+  },
+  {
+    "CourseName": "POS 335 - European Politics"
+  },
+  {
+    "CourseName": "POS 338 - Social Media and Revolutions"
+  },
+  {
+    "CourseName": "POS 349 - The Middle East in International Politics"
+  },
+  {
+    "CourseName": "POS 352 - Latino Politics"
+  },
+  {
+    "CourseName": "POS 360 - Terrorism and the American Public"
+  },
+  {
+    "CourseName": "POS 374 - United States Foreign Policy"
+  },
+  {
+    "CourseName": "POS 380 - Topics"
+  },
+  {
+    "CourseName": "POS 381 - Global Order: 1945 - Present"
+  },
+  {
+    "CourseName": "POS 382 - Politics of Climate Change"
+  },
+  {
+    "CourseName": "POS 383 - WMD in the Movies"
+  },
+  {
+    "CourseName": "POS 390 - Ancient and Medieval Political Theory"
+  },
+  {
+    "CourseName": "POS 392 - American Political Thought I"
+  },
+  {
+    "CourseName": "POS 393 - American Political Thought II"
+  },
+  {
+    "CourseName": "POS 394 - A Year in the Life"
+  },
+  {
+    "CourseName": "POS 395 - Independent Study I"
+  },
+  {
+    "CourseName": "POS 396 - Independent Study II"
+  },
+  {
+    "CourseName": "POS 405 - The European Union"
+  },
+  {
+    "CourseName": "POS 445 - MeMUNC Conference Planners"
+  },
+  {
+    "CourseName": "POS 463 - Supreme Court and Constitutional Law"
+  },
+  {
+    "CourseName": "POS 464 - American Civil Liberties"
+  },
+  {
+    "CourseName": "POS 475 - Political Science Internship"
+  },
+  {
+    "CourseName": "POS 476 - Internship in Washington D.C."
+  },
+  {
+    "CourseName": "POS 480 - International Affairs Internship"
+  },
+  {
+    "CourseName": "PSY 100 - Introduction to Psychology"
+  },
+  {
+    "CourseName": "PSY 201 - Statistics in Psychology"
+  },
+  {
+    "CourseName": "PSY 205 - Experimental Methodology"
+  },
+  {
+    "CourseName": "PSY 206 - Methodology Lab"
+  },
+  {
+    "CourseName": "PSY 220 - Psychology of the Lifespan"
+  },
+  {
+    "CourseName": "PSY 230 - Social Psychology"
+  },
+  {
+    "CourseName": "PSY 233 - Abnormal Psychology"
+  },
+  {
+    "CourseName": "PSY 317 - Cross-Cultural Psychology"
+  },
+  {
+    "CourseName": "PSY 318 - Applied Behavior Analysis"
+  },
+  {
+    "CourseName": "PSY 319 - Self Regulation"
+  },
+  {
+    "CourseName": "PSY 323 - Psychology of Infancy and Childhood"
+  },
+  {
+    "CourseName": "PSY 338 - Theories of Personality"
+  },
+  {
+    "CourseName": "PSY 350 - Psychology of Learning"
+  },
+  {
+    "CourseName": "PSY 360 - Cognitive Processes"
+  },
+  {
+    "CourseName": "PSY 361 - Sensation and Perception"
+  },
+  {
+    "CourseName": "PSY 363 - Human Factors in Regulatory Ethics"
+  },
+  {
+    "CourseName": "PSY 365 - Physiological Psychology"
+  },
+  {
+    "CourseName": "PSY 368 - Health Psychology"
+  },
+  {
+    "CourseName": "PSY 375 - Psychology in the Public Interest"
+  },
+  {
+    "CourseName": "PSY 400 - Independent Study"
+  },
+  {
+    "CourseName": "PSY 401 - Research Apprenticeship"
+  },
+  {
+    "CourseName": "PSY 405 - Teaching Apprenticeship"
+  },
+  {
+    "CourseName": "PSY 410 - Internship/Field Experience"
+  },
+  {
+    "CourseName": "BPH 101 - Introduction to the U.S. Health System"
+  },
+  {
+    "CourseName": "BPH 160 - Biology of Human Health"
+  },
+  {
+    "CourseName": "BPH 161 - Biology of Human Health Lab"
+  },
+  {
+    "CourseName": "BPH 201 - Fundamentals of Public Health"
+  },
+  {
+    "CourseName": "BPH 205 - Health Communication and Marketing"
+  },
+  {
+    "CourseName": "BPH 210 - Health Disparities and Social Justice"
+  },
+  {
+    "CourseName": "BPH 315 - Population Health Improvement"
+  },
+  {
+    "CourseName": "BPH 320 - Methods of Public Health Research"
+  },
+  {
+    "CourseName": "BPH 337 - Introduction to Epidemiology"
+  },
+  {
+    "CourseName": "BPH 339 - Topics in Public Health"
+  },
+  {
+    "CourseName": "BPH 397 - Independent Study"
+  },
+  {
+    "CourseName": "BPH 450 - Analysis of Public Health Data with Lab"
+  },
+  {
+    "CourseName": "BPH 498 - Professional Development for Public Health Careers"
+  },
+  {
+    "CourseName": "RCE 100 - Introduction to Race & Ethnic Studies"
+  },
+  {
+    "CourseName": "RCE 150 - Introduction to Race"
+  },
+  {
+    "CourseName": "RCE 200 - Introduction to Critical Race Theory"
+  },
+  {
+    "CourseName": "RCE 330 - Perspectives on Father Involvement"
+  },
+  {
+    "CourseName": "REC 110 - Foundations of Recreation and Leisure Studies"
+  },
+  {
+    "CourseName": "REC 121 - Introduction to Therapeutic Recreation Services"
+  },
+  {
+    "CourseName": "REC 190 - Yoga and Nutrition"
+  },
+  {
+    "CourseName": "REC 223 - Environmental Recreation"
+  },
+  {
+    "CourseName": "REC 226 - Lifetime Leisure Activities"
+  },
+  {
+    "CourseName": "REC 232 - Methods in Therapeutic Recreation Program Design"
+  },
+  {
+    "CourseName": "REC 233 - Outdoor Recreation"
+  },
+  {
+    "CourseName": "REC 241 - Recreation Leadership"
+  },
+  {
+    "CourseName": "REC 253 - Implications of Disabling Conditions for Therapeutic Recreation"
+  },
+  {
+    "CourseName": "REC 285 - Perspectives on Animal-Assisted Therapy"
+  },
+  {
+    "CourseName": "REC 311 - Holistic Therapeutic Recreation Strategies in Geriatrics"
+  },
+  {
+    "CourseName": "REC 314 - Wellness Education and Counseling"
+  },
+  {
+    "CourseName": "REC 324 - Inclusive and Special Recreation"
+  },
+  {
+    "CourseName": "REC 382 - Assessment and Documentation in Therapeutic Recreation"
+  },
+  {
+    "CourseName": "REC 383 - Facilitation Techniques in Therapeutic Recreation"
+  },
+  {
+    "CourseName": "REC 398 - Independent Study"
+  },
+  {
+    "CourseName": "REC 494 - Professional Foundations of Therapeutic Recreation Practice"
+  },
+  {
+    "CourseName": "REC 495 - Internship"
+  },
+  {
+    "CourseName": "REC 498 - Management and Professional Development in Therapeutic Recreation"
+  },
+  {
+    "CourseName": "RHF 106 - Ballroom Dance"
+  },
+  {
+    "CourseName": "RHF 108 - SKY: The Practice of Happiness and Well-being"
+  },
+  {
+    "CourseName": "RHF 109 - Beginning Weight Training"
+  },
+  {
+    "CourseName": "RHF 118 - Yoga"
+  },
+  {
+    "CourseName": "RHF 121 - Self Defense"
+  },
+  {
+    "CourseName": "RHF 122 - Aerobic Kickboxing"
+  },
+  {
+    "CourseName": "RHF 123 - Introduction to Kayaking"
+  },
+  {
+    "CourseName": "RHF 124 - T’ai Chi Qigong"
+  },
+  {
+    "CourseName": "RHF 126 - Stability and Physio-Ball Exercise"
+  },
+  {
+    "CourseName": "RHF 127 - Pilates"
+  },
+  {
+    "CourseName": "RHF 131 - Indoor Cycling Instructor Preparation"
+  },
+  {
+    "CourseName": "RHF 218 - Yoga Fusion"
+  },
+  {
+    "CourseName": "REL 240 - Meaning, Morality, and Religion"
+  },
+  {
+    "CourseName": "RMI 295 - Internship in Risk Management and Insurance"
+  },
+  {
+    "CourseName": "RMI 320 - Introduction to Risk Management and Insurance"
+  },
+  {
+    "CourseName": "RMI 330 - Health, Life, and Disability Insurance"
+  },
+  {
+    "CourseName": "RMI 350 - Corporate Risk Management and Insurance"
+  },
+  {
+    "CourseName": "RMI 395 - Internship I"
+  },
+  {
+    "CourseName": "RMI 396 - Internship II"
+  },
+  {
+    "CourseName": "SBS 122 - A Regulated Society"
+  },
+  {
+    "CourseName": "SBS 200 - Multicultural Human Development"
+  },
+  {
+    "CourseName": "SBS 210 - Me in 3D: Introduction to Social and Behavioral Sciences"
+  },
+  {
+    "CourseName": "SBS 300 - Deviance and Social Control"
+  },
+  {
+    "CourseName": "SBS 301 - Group Dynamics"
+  },
+  {
+    "CourseName": "SBS 302 - Organizational Behavior"
+  },
+  {
+    "CourseName": "SBS 303 - Abnormal Psychology"
+  },
+  {
+    "CourseName": "SBS 304 - Food and Culture"
+  },
+  {
+    "CourseName": "SBS 305 - Child and Adolescent Development"
+  },
+  {
+    "CourseName": "SBS 308 - Medical Anthropology"
+  },
+  {
+    "CourseName": "SBS 310 - Childhood and Society"
+  },
+  {
+    "CourseName": "SBS 311 - Theories of Personality"
+  },
+  {
+    "CourseName": "SBS 315 - Social Psychology of Disability"
+  },
+  {
+    "CourseName": "SBS 316 - Diversity in Organizations"
+  },
+  {
+    "CourseName": "SBS 329 - Research Methods"
+  },
+  {
+    "CourseName": "SBS 332 - Death, Dying, and Denial"
+  },
+  {
+    "CourseName": "SBS 335 - Legal Issues in Health and Human Services"
+  },
+  {
+    "CourseName": "SBS 336 - Fundamentals of Public Health"
+  },
+  {
+    "CourseName": "SBS 337 - Introduction to Epidemiology"
+  },
+  {
+    "CourseName": "SBS 339 - Migration, Ethnicity, and Identity"
+  },
+  {
+    "CourseName": "SBS 341 - The Family"
+  },
+  {
+    "CourseName": "SBS 343 - Substance Use Disorders"
+  },
+  {
+    "CourseName": "SBS 345 - Diversity: Many Voices"
+  },
+  {
+    "CourseName": "SBS 346 - Introduction to Social Services"
+  },
+  {
+    "CourseName": "SBS 348 - Responding to Mental Health Crisis in the Community"
+  },
+  {
+    "CourseName": "SBS 349 - Trauma and Narrative"
+  },
+  {
+    "CourseName": "SBS 350 - Psychosocial Disorders in Childhood and Adolescence"
+  },
+  {
+    "CourseName": "SBS 362 - Understanding Regulation: Applying Scissors to Red Tape"
+  },
+  {
+    "CourseName": "SBS 363 - Human Factors in Regulation"
+  },
+  {
+    "CourseName": "SBS 364 - Introduction to Creative Modalities"
+  },
+  {
+    "CourseName": "SBS 368 - Transitioning Cultures: Ethical Conflicts in Post-Military Life"
+  },
+  {
+    "CourseName": "SBS 370 - Toward a Global Ethics"
+  },
+  {
+    "CourseName": "SBS 375 - Infant Mental Health and Attachment"
+  },
+  {
+    "CourseName": "SBS 389 - Our Brains at Play"
+  },
+  {
+    "CourseName": "SBS 390 - Brain and Behavior"
+  },
+  {
+    "CourseName": "SBS 398 - Independent Study"
+  },
+  {
+    "CourseName": "SBS 399 - Special Topics"
+  },
+  {
+    "CourseName": "SBS 411 - Counseling and Psychotherapy"
+  },
+  {
+    "CourseName": "SBS 413 - Exploring Careers and Job Search Skills"
+  },
+  {
+    "CourseName": "SBS 420 - Mindfulness"
+  },
+  {
+    "CourseName": "SBS 430 - Applied Social and Public Policy"
+  },
+  {
+    "CourseName": "SBS 447 - Internship"
+  },
+  {
+    "CourseName": "SBS 470 - Study Abroad"
+  },
+  {
+    "CourseName": "SOJ 101 - Social Justice / Social Change"
+  },
+  {
+    "CourseName": "SOJ 110 - Theoretical Foundations of Social Justice I"
+  },
+  {
+    "CourseName": "SOJ 120 - Patterns in Injustice and Resistance"
+  },
+  {
+    "CourseName": "SOJ 130 - Analytic Methods and Practical Skills I"
+  },
+  {
+    "CourseName": "SOJ 210 - Theoretical Foundations of Social Justice II"
+  },
+  {
+    "CourseName": "SOJ 220 - Patterns in Injustice and Resistance II"
+  },
+  {
+    "CourseName": "SOJ 230 - Analytic Methods and Practical Skills II"
+  },
+  {
+    "CourseName": "SOJ 310 - Theoretical Foundations of Social Justice III"
+  },
+  {
+    "CourseName": "SOJ 320 - Patterns in Injustice and Resistance III"
+  },
+  {
+    "CourseName": "SOJ 330 - Analytic Methods and Practical Skills III"
+  },
+  {
+    "CourseName": "SOJ 401 - Social Justice Capstone"
+  },
+  {
+    "CourseName": "SOJ 410 - Theoretical Foundations of Social Justice IV"
+  },
+  {
+    "CourseName": "SOJ 420 - Patterns in Injustice and Resistance IV"
+  },
+  {
+    "CourseName": "SOJ 430 - Analytic Methods and Practical Skills IV"
+  },
+  {
+    "CourseName": "SWO 201 - Introduction to Social Work"
+  },
+  {
+    "CourseName": "SWO 250 - Introduction to Social Welfare"
+  },
+  {
+    "CourseName": "SWO 270 - Human Behavior in the Social Environment I"
+  },
+  {
+    "CourseName": "SWO 310 - Animal-Human Bond"
+  },
+  {
+    "CourseName": "SWO 330 - Grief and Loss Across the Lifespan"
+  },
+  {
+    "CourseName": "SWO 333 - Social Work Research I"
+  },
+  {
+    "CourseName": "SWO 334 - Social Work Research II"
+  },
+  {
+    "CourseName": "SWO 340 - Race, Gender & Criminal Justice"
+  },
+  {
+    "CourseName": "SWO 350 - Social Welfare Policy"
+  },
+  {
+    "CourseName": "SWO 360 - Social Work Practice with LGBTQI+ Communities"
+  },
+  {
+    "CourseName": "SWO 365 - Foundations of Social Justice in Social Work"
+  },
+  {
+    "CourseName": "SWO 370 - Human Behavior in the Social Environment"
+  },
+  {
+    "CourseName": "SWO 375 - Gender and Aging"
+  },
+  {
+    "CourseName": "SWO 383 - Social Work with Immigrants, Refugees, and Asylum Seekers"
+  },
+  {
+    "CourseName": "SWO 388 - Substance Use and Related Behaviors: Critical Analysis and Practice"
+  },
+  {
+    "CourseName": "SWO 393 - Methods of Social Work Practice I"
+  },
+  {
+    "CourseName": "SWO 397 - Independent Study"
+  },
+  {
+    "CourseName": "SWO 399 - Topics in Social Work"
+  },
+  {
+    "CourseName": "SWO 402 - Methods of Social Work Practice II"
+  },
+  {
+    "CourseName": "SWO 403 - Methods of Social Work Practice III"
+  },
+  {
+    "CourseName": "SWO 411 - Field Experience and Seminar I"
+  },
+  {
+    "CourseName": "SWO 412 - Field Experience and Seminar II"
+  },
+  {
+    "CourseName": "SOC 100 - Introduction to Sociology"
+  },
+  {
+    "CourseName": "SOC 210 - Critical Thinking about Social Issues"
+  },
+  {
+    "CourseName": "SOC 300 - Sociological Theory"
+  },
+  {
+    "CourseName": "SOC 301 - Qualitative Research Methods"
+  },
+  {
+    "CourseName": "SOC 307 - Quantitative Research Methods"
+  },
+  {
+    "CourseName": "SOC 316 - Sociology of Gender"
+  },
+  {
+    "CourseName": "SOC 327 - Social Movements"
+  },
+  {
+    "CourseName": "SOC 330 - Sociology of the Family"
+  },
+  {
+    "CourseName": "SOC 336 - Law and Society"
+  },
+  {
+    "CourseName": "SOC 370 - Sociology of the Environment"
+  },
+  {
+    "CourseName": "SOC 371 - Sociology of Race and Ethnicity"
+  },
+  {
+    "CourseName": "SOC 379 - Sociology of Indigenous Peoples"
+  },
+  {
+    "CourseName": "SOC 380 - Topics in Sociology"
+  },
+  {
+    "CourseName": "SOC 390 - Individualized Instruction I"
+  },
+  {
+    "CourseName": "SOC 395 - Internship"
+  },
+  {
+    "CourseName": "SOC 410 - Sociology Capstone"
+  },
+  {
+    "CourseName": "SOC 450 - Undergraduate Teaching Assistantship"
+  },
+  {
+    "CourseName": "SPA 101 - Beginning Spanish I"
+  },
+  {
+    "CourseName": "SPA 102 - Beginning Spanish II"
+  },
+  {
+    "CourseName": "SPA 150 - Language Table"
+  },
+  {
+    "CourseName": "SPA 201 - Intermediate Spanish I"
+  },
+  {
+    "CourseName": "SPA 202 - Intermediate Spanish II"
+  },
+  {
+    "CourseName": "SPA 300 - Building Fluency in Spanish"
+  },
+  {
+    "CourseName": "SPA 301 - Practical Spanish I"
+  },
+  {
+    "CourseName": "SPA 302 - Practical Spanish II"
+  },
+  {
+    "CourseName": "SPA 398 - Independent Study"
+  },
+  {
+    "CourseName": "SPA 416 - The Linguistic Structure of Spanish"
+  },
+  {
+    "CourseName": "SED 235 - Students with Exceptionalities in General Education"
+  },
+  {
+    "CourseName": "SED 282 - Special Education Regulations, Procedures, and the IEP Team"
+  },
+  {
+    "CourseName": "SED 288 - Registered Teacher Apprenticeship Practicum"
+  },
+  {
+    "CourseName": "SED 300 - Ethics and Serving Individuals with Disabilities"
+  },
+  {
+    "CourseName": "SED 318 - Targeted and Individualized Instructional Strategies for Students with Disabilities"
+  },
+  {
+    "CourseName": "SED 387 - Technology for Learning and Communicating"
+  },
+  {
+    "CourseName": "SED 392 - Early Childhood Special Education"
+  },
+  {
+    "CourseName": "SED 393 - Transitions Among Agency, School, and Community"
+  },
+  {
+    "CourseName": "SED 415 - Positive Behavioral Interventions and Supports (PBIS)"
+  },
+  {
+    "CourseName": "SED 425 - Multi-Tier Mathematics Instruction and Assessment"
+  },
+  {
+    "CourseName": "SED 427 - Multi-Tier Reading Instruction and Assessment"
+  },
+  {
+    "CourseName": "SED 453 - Assessment of Academic Achievement"
+  },
+  {
+    "CourseName": "SED 488 - Internship in Special Education for Students with Mild to Moderate Disabilities"
+  },
+  {
+    "CourseName": "SPM 100 - Introduction to Exercise, Health, and Sport Sciences"
+  },
+  {
+    "CourseName": "SPM 101 - Basic Life Support and First Aid 1"
+  },
+  {
+    "CourseName": "SPM 102 - Basic Life Support and First Aid 2"
+  },
+  {
+    "CourseName": "SPM 140 - Medical Terminology"
+  },
+  {
+    "CourseName": "SPM 219 - Lifetime Physical Fitness and Wellness"
+  },
+  {
+    "CourseName": "SPM 230 - Psychology of Physical Activity and Sport"
+  },
+  {
+    "CourseName": "SPM 260 - Foundations of Exercise Science"
+  },
+  {
+    "CourseName": "SPM 325 - Methods of Resistance Training and Conditioning"
+  },
+  {
+    "CourseName": "SPM 330 - Physiology of Exercise"
+  },
+  {
+    "CourseName": "SPM 331 - Physiology of Exercise Laboratory"
+  },
+  {
+    "CourseName": "SPM 350 - Health Promotion Programs"
+  },
+  {
+    "CourseName": "SPM 352 - Nutrition for Physical Performance"
+  },
+  {
+    "CourseName": "SPM 381 - Kinesiology"
+  },
+  {
+    "CourseName": "SPM 382 - Kinesiology Lab"
+  },
+  {
+    "CourseName": "SPM 390 - Biomechanics"
+  },
+  {
+    "CourseName": "SPM 391 - Biomechanics Lab"
+  },
+  {
+    "CourseName": "SPM 398 - Independent Study"
+  },
+  {
+    "CourseName": "SPM 425 - Advanced Strength and Conditioning"
+  },
+  {
+    "CourseName": "SPM 430 - Exercise Testing, Assessment, and Prescription"
+  },
+  {
+    "CourseName": "SPM 431 - Advanced Exercise Physiology"
+  },
+  {
+    "CourseName": "SPM 450 - Exercise for Special Populations"
+  },
+  {
+    "CourseName": "SPM 477 - Health Research Methods"
+  },
+  {
+    "CourseName": "SPM 485 - Senior Thesis"
+  },
+  {
+    "CourseName": "SPM 495 - Clinical Internship"
+  },
+  {
+    "CourseName": "THE 101 - Introduction to Theatre and Text Analysis"
+  },
+  {
+    "CourseName": "THE 102 - Acting for Non-Majors"
+  },
+  {
+    "CourseName": "THE 104 - Practicum in Costuming"
+  },
+  {
+    "CourseName": "THE 105 - Practicum in Stage Lighting"
+  },
+  {
+    "CourseName": "THE 106 - Practicum in Stagecraft"
+  },
+  {
+    "CourseName": "THE 112 - Stagecraft Fundamentals"
+  },
+  {
+    "CourseName": "THE 115 - Math & the Theatre Arts"
+  },
+  {
+    "CourseName": "THE 122 - Fundamentals of Performance"
+  },
+  {
+    "CourseName": "THE 136 - Fundamentals of Design"
+  },
+  {
+    "CourseName": "THE 139 - Theatrical Makeup"
+  },
+  {
+    "CourseName": "THE 140 - Entry Year Theatre Workshop"
+  },
+  {
+    "CourseName": "THE 141 - Theatre Workshop I"
+  },
+  {
+    "CourseName": "THE 142 - Theatre Workshop II"
+  },
+  {
+    "CourseName": "THE 170 - Public Speaking"
+  },
+  {
+    "CourseName": "THE 180 - Topics in Theatre"
+  },
+  {
+    "CourseName": "THE 190 - Rehearsal and Production"
+  },
+  {
+    "CourseName": "THE 201 - Cultural History of Theatre"
+  },
+  {
+    "CourseName": "THE 220 - Acting Techniques I"
+  },
+  {
+    "CourseName": "THE 224 - Acting for the Camera"
+  },
+  {
+    "CourseName": "THE 225 - Voice and Movement"
+  },
+  {
+    "CourseName": "THE 232 - Introduction to Stage Management"
+  },
+  {
+    "CourseName": "THE 234 - Business of Performing Arts"
+  },
+  {
+    "CourseName": "THE 236 - Practicum in Design"
+  },
+  {
+    "CourseName": "THE 237 - Practicum in Acting"
+  },
+  {
+    "CourseName": "THE 250 - Playwriting"
+  },
+  {
+    "CourseName": "THE 271 - Creative Drama"
+  },
+  {
+    "CourseName": "THE 280 - Topics in Theatre"
+  },
+  {
+    "CourseName": "THE 284 - Acting the Song"
+  },
+  {
+    "CourseName": "THE 290 - Advanced Rehearsal and Production"
+  },
+  {
+    "CourseName": "THE 321 - Acting Techniques II"
+  },
+  {
+    "CourseName": "THE 325 - Directing"
+  },
+  {
+    "CourseName": "THE 330 - Dramaturgy: Creative Research, Development, and Critique"
+  },
+  {
+    "CourseName": "THE 331 - Scene Design"
+  },
+  {
+    "CourseName": "THE 333 - Costume Construction"
+  },
+  {
+    "CourseName": "THE 334 - Costume Design"
+  },
+  {
+    "CourseName": "THE 335 - Lighting Design"
+  },
+  {
+    "CourseName": "THE 337 - Sound Design"
+  },
+  {
+    "CourseName": "THE 352 - Dramatic Literature and History of Modern Theatre"
+  },
+  {
+    "CourseName": "THE 375 - Devised Theatre"
+  },
+  {
+    "CourseName": "THE 380 - Topics in Theatre"
+  },
+  {
+    "CourseName": "THE 384 - Musical Theatre Scene Study"
+  },
+  {
+    "CourseName": "THE 420 - Acting: Styles"
+  },
+  {
+    "CourseName": "THE 430 - Topics in Design"
+  },
+  {
+    "CourseName": "THE 434 - Advanced Design for the Theatre"
+  },
+  {
+    "CourseName": "THE 451 - Topics in Dramatic Literature and Theatre History"
+  },
+  {
+    "CourseName": "THE 490 - Independent Study"
+  },
+  {
+    "CourseName": "THE 491 - Independent Project"
+  },
+  {
+    "CourseName": "THE 492 - Theatre Internship"
+  },
+  {
+    "CourseName": "THE 495 - Theatre Capstone"
+  },
+  {
+    "CourseName": "TAH 101 - Introduction to Tourism & Hospitality"
+  },
+  {
+    "CourseName": "TAH 150 - Professional Practices Immersion in Tourism & Hospitality"
+  },
+  {
+    "CourseName": "TAH 211 - Tourism Entrepreneurship"
+  },
+  {
+    "CourseName": "TAH 221 - Hospitality Management"
+  },
+  {
+    "CourseName": "TAH 222 - Food and Beverage Management"
+  },
+  {
+    "CourseName": "TAH 224 - Off-site Catering"
+  },
+  {
+    "CourseName": "TAH 228 - Introduction to the Craft Beer Sector"
+  },
+  {
+    "CourseName": "TAH 241 - Sustainable Tourism Development"
+  },
+  {
+    "CourseName": "TAH 261 - Cultural Tourism"
+  },
+  {
+    "CourseName": "TAH 299 - Topics in Tourism & Hospitality"
+  },
+  {
+    "CourseName": "TAH 301 - Global Issues in Travel & Tourism"
+  },
+  {
+    "CourseName": "TAH 305 - Culture & Communication in the Travel Industry"
+  },
+  {
+    "CourseName": "TAH 309 - Tourism & Hospitality Internship"
+  },
+  {
+    "CourseName": "TAH 311 - Event Management"
+  },
+  {
+    "CourseName": "TAH 312 - Tour Planning & Management"
+  },
+  {
+    "CourseName": "TAH 320 - Green Meetings and Events"
+  },
+  {
+    "CourseName": "TAH 321 - Lodging Operations & Systems"
+  },
+  {
+    "CourseName": "TAH 331 - Sustainable Hospitality Management"
+  },
+  {
+    "CourseName": "TAH 361 - Local Food & Agritourism"
+  },
+  {
+    "CourseName": "TAH 399 - Advanced Topics in Tourism & Hospitality"
+  },
+  {
+    "CourseName": "TAH 409 - Capstone: Tourism & Hospitality Internship"
+  },
+  {
+    "CourseName": "TAH 415 - Trends & Innovation in Tourism and Hospitality"
+  },
+  {
+    "CourseName": "TAH 422 - Hospitality Law and HR"
+  },
+  {
+    "CourseName": "TAH 424 - Hospitality Financial Management"
+  },
+  {
+    "CourseName": "TAH 426 - Beverage Operations"
+  },
+  {
+    "CourseName": "TAH 432 - Sustainable Tourism Policy & Planning"
+  },
+  {
+    "CourseName": "TAH 497 - Independent Study in Tourism & Hospitality"
+  },
+  {
+    "CourseName": "WAB 101 - Beginning Wabanaki Language I"
+  },
+  {
+    "CourseName": "WAB 102 - Beginning Wabanaki Language II"
+  },
+  {
+    "CourseName": "WAB 150 - Language Table"
+  },
+  {
+    "CourseName": "WAB 180 - Wabanaki Language Reclamation Methodologies"
+  },
+  {
+    "CourseName": "WAB 201 - Intermediate Wabanaki Language I"
+  },
+  {
+    "CourseName": "WAB 202 - Intermediate Wabanaki Language II"
+  },
+  {
+    "CourseName": "WAB 398 - Independent Study"
+  },
+  {
+    "CourseName": "WGS 101 - Introduction to Women and Gender Studies"
+  },
+  {
+    "CourseName": "WGS 201 - Rethinking Gender & Culture"
+  },
+  {
+    "CourseName": "WGS 220 - Topics in Women and Gender Studies"
+  },
+  {
+    "CourseName": "WGS 245 - Topics in Culture and the Arts I"
+  },
+  {
+    "CourseName": "WGS 265 - Topics in Gender and Institutions I"
+  },
+  {
+    "CourseName": "WGS 320 - Advanced Topics in Women and Gender Studies"
+  },
+  {
+    "CourseName": "WGS 335 - Topics in Science, Technology, and Health II"
+  },
+  {
+    "CourseName": "WGS 345 - Topics in Culture and the Arts II"
+  },
+  {
+    "CourseName": "WGS 355 - Topics in History and Resistance II"
+  },
+  {
+    "CourseName": "WGS 365 - Topics in Gender and Institutions II"
+  },
+  {
+    "CourseName": "WGS 380 - The Politics of Difference"
+  },
+  {
+    "CourseName": "WGS 390 - Contemporary Feminist Theories"
+  },
+  {
+    "CourseName": "WGS 465 - Topics in Gender and Institutions III"
+  },
+  {
+    "CourseName": "WGS 470 - Independent Study"
+  },
+  {
+    "CourseName": "WGS 485 - Internship"
+  },
+  {
+    "CourseName": "WGS 486 - Thesis"
+  },
+  {
+    "CourseName": "WGS 490 - Capstone Experience in Women and Gender Studies"
+  }
+]
