@@ -21,9 +21,6 @@ results = []       # cleaned data → faculty_cleaned.csv
 # -----------------------
 # UTILITIES
 # -----------------------
-def generate_user_id():
-    return random.randint(100000000, 999999999)
-
 def generate_password(length=12):
     chars = string.ascii_letters + string.digits + "!@#$%&*"
     return "".join(random.choice(chars) for _ in range(length))
@@ -192,7 +189,6 @@ for i, url in enumerate(profile_urls):
     title, department = extract_title_department(sections)
 
     results.append({
-        "UserID": generate_user_id(),
         "FirstName": first,
         "LastName": last,
         "Title": title,
