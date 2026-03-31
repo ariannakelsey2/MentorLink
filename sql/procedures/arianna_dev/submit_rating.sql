@@ -33,9 +33,9 @@ BEGIN
           ON m1.MentorshipID = m2.MentorshipID
         WHERE m1.MentorshipID = v_MentorshipID
           AND m1.UserID = v_RaterUserID
-          AND m1.RoleID = 'Mentee'
+          AND m1.RoleVaue = 'Mentee'
           AND m2.UserID = v_RatedUserID
-          AND m2.RoleID = 'Mentor'
+          AND m2.RoleValue = 'Mentor'
     ) THEN
         SIGNAL SQLSTATE '45000'
         SET MESSAGE_TEXT = 'Only mentees can rate mentors';
