@@ -200,23 +200,7 @@ SELECT COUNT(*) FROM Rating;
 
 ---
 
-# 10. Common Issues
-
-### Foreign Key Errors
-Fix: Import parent tables first.
-
-### Timestamp Errors
-Format:
-```
-YYYY-MM-DD HH:MM:SS
-```
-
-### Duplicate Errors
-Check CSV for duplicate values.
-
----
-
-# 11. Notes
+# 10. Notes
 
 This project demonstrates:
 - relational schema design
