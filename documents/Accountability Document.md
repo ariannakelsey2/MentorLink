@@ -118,7 +118,7 @@
 		- opportunities_query_optimization.md
 	- Mathieu
 		- mentorship_session_queries.sql
-		- mentorship_session_query.md
+		- mentorship_session_query_optimization.md
 	- Hanan
 		- research_queries.sql
 		- research_query_optimization.md
