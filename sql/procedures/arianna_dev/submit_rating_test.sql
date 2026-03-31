@@ -15,16 +15,16 @@ BEGIN
     -- =========================================
     SELECT 
         BIN_TO_UUID(mm.MentorshipID),
-        BIN_TO_UUID(MAX(CASE WHEN mm.RoleID = 'Mentee' THEN mm.UserID END)),
-        BIN_TO_UUID(MAX(CASE WHEN mm.RoleID = 'Mentor' THEN mm.UserID END))
+        BIN_TO_UUID(MAX(CASE WHEN mm.RoleValue = 'Mentee' THEN mm.UserID END)),
+        BIN_TO_UUID(MAX(CASE WHEN mm.RoleValue = 'Mentor' THEN mm.UserID END))
     INTO
         @mentorship_id,
         @mentee_user_id,
         @mentor_user_id
     FROM MentorshipMember mm
     GROUP BY mm.MentorshipID
-    HAVING COUNT(CASE WHEN mm.RoleID = 'Mentee' THEN 1 END) = 1
-       AND COUNT(CASE WHEN mm.RoleID = 'Mentor' THEN 1 END) = 1
+    HAVING COUNT(CASE WHEN mm.RoleValue = 'Mentee' THEN 1 END) = 1
+       AND COUNT(CASE WHEN mm.RoleValue = 'Mentor' THEN 1 END) = 1
     LIMIT 1;
 
     SELECT 'SETUP VALUES' AS Section,
