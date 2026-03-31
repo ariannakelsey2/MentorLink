@@ -1,1 +1,32 @@
+# USM Faculty Scraper
+
+This project scrapes faculty data from the University of Southern Maine directory and exports it to a CSV file.
+
+---
+
+## Requirements
+
+You must have Python 3.10+ installed.
+
+
+### Step 1 — Open Terminal / PowerShell
+
+
+
+### Step 2 — Install packages
+
+In the terminal, run the following:
+
+pip install requests beautifulsoup4 pandas
+
+
+### Step 3 — Enter Python
+
+In the terminal, enter:
+>> Python
+
+### Step 4 — Run the python script
+
+---
+
 
