@@ -74,6 +74,8 @@ CREATE TABLE Session (
 );
 
 CREATE INDEX idx_session_mentorship ON Session(MentorshipID);
+CREATE INDEX idx_session_timestamp ON Session(Timestamp);
+CREATE INDEX idx_session_mentorship_timestamp ON Session(MentorshipID, Timestamp);
 CREATE INDEX idx_session_status ON Session(Status);
 
 -- Goal Entity
@@ -480,7 +482,107 @@ ORDER BY m.MentorshipID;
 
 SELECT '' AS '';
 SELECT '=====================================================================' AS '';
-SELECT 'TEST 14: Session Status Distribution' AS '';
+SELECT 'TEST 14: Query Optimization Demo - Sessions By Mentorship (Baseline vs Optimized)' AS '';
+SELECT '=====================================================================' AS '';
+
+-- Query 1 baseline (non-sargable and wider row fetch)
+EXPLAIN
+SELECT *
+FROM Session
+WHERE MentorshipID = 1919
+ORDER BY Timestamp;
+
+SELECT
+        SessionID,
+        MentorshipID,
+        Timestamp,
+        InstructionType,
+        Location,
+        Status
+FROM Session
+WHERE MentorshipID = 1919
+ORDER BY Timestamp;
+
+-- Query 1 optimized (narrow projection, deterministic ordering)
+EXPLAIN
+SELECT
+        SessionID,
+        MentorshipID,
+        Timestamp,
+        InstructionType,
+        Location,
+        Status
+FROM Session
+WHERE MentorshipID = 1919
+ORDER BY Timestamp ASC, SessionID ASC;
+
+SELECT
+        SessionID,
+        MentorshipID,
+        Timestamp,
+        InstructionType,
+        Location,
+        Status
+FROM Session
+WHERE MentorshipID = 1919
+ORDER BY Timestamp ASC, SessionID ASC;
+
+SELECT '' AS '';
+SELECT '=====================================================================' AS '';
+SELECT 'TEST 15: Query Optimization Demo - Upcoming Scheduled Sessions (Baseline vs Optimized)' AS '';
+SELECT '=====================================================================' AS '';
+
+-- Query 2 baseline (non-sargable date predicate)
+EXPLAIN
+SELECT *
+FROM Session
+WHERE MentorshipID = 1919
+    AND DATE(Timestamp) >= DATE('2025-01-01 00:00:00')
+    AND Status = 'Scheduled'
+ORDER BY Timestamp;
+
+SELECT
+        SessionID,
+        MentorshipID,
+        Timestamp,
+        InstructionType,
+        Location,
+        Status
+FROM Session
+WHERE MentorshipID = 1919
+    AND DATE(Timestamp) >= DATE('2025-01-01 00:00:00')
+    AND Status = 'Scheduled'
+ORDER BY Timestamp;
+
+-- Query 2 optimized (sargable timestamp filter and narrow projection)
+EXPLAIN
+SELECT
+        SessionID,
+        Timestamp,
+        InstructionType,
+        Location,
+        Status
+FROM Session
+WHERE MentorshipID = 1919
+    AND Timestamp >= '2025-01-01 00:00:00'
+    AND Status = 'Scheduled'
+ORDER BY Timestamp ASC, SessionID ASC;
+
+SELECT
+        SessionID,
+        Timestamp,
+        InstructionType,
+        Location,
+        Status
+FROM Session
+WHERE MentorshipID = 1919
+    AND Timestamp >= '2025-01-01 00:00:00'
+    AND Status = 'Scheduled'
+ORDER BY Timestamp ASC, SessionID ASC;
+
+SELECT '' AS '';
+SELECT '=====================================================================' AS '';
+SELECT 'TEST 16: Session Status Distribution' AS '';
 SELECT '=====================================================================' AS '';
 SELECT Status, COUNT(*) as Count FROM Session GROUP BY Status;
 
