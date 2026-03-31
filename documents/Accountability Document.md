@@ -117,8 +117,8 @@
 		- opportunities_query.sql
 		- opportunities_query_optimization.md
 	- Mathieu
-		- Find sessions by mentorship ordered by time
-		-
+		- mentorship_session_queries.sql
+		- mentorship_session_query.md
 	- Hanan
 		- research_queries.sql
 		- research_query_optimization.md
