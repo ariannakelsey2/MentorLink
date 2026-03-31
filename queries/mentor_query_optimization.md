@@ -11,7 +11,7 @@
 ```sql
 SELECT DISTINCT
     sub.Department,
-    BIN\\\_TO\\\_UUID(u.UserID) AS UserID,
+    BIN_TO_UUID(u.UserID) AS UserID,
     u.FirstName,
     u.LastName,
     u.Email
@@ -29,7 +29,7 @@ ORDER BY sub.Department;
 ### Proposed Index
 
 ```sql
-CREATE INDEX idx\\\_subject\\\_department
+CREATE INDEX idx_subject_department
     ON Subject(Department);
 ```
 
@@ -51,11 +51,11 @@ This query sorts results by the `Department` column in the `Subject` table. Befo
 
 ```sql
 SELECT
-    BIN\\\_TO\\\_UUID(u.UserID)       AS UserID,
+    BIN_TO_UUID(u.UserID) AS UserID,
     u.FirstName,
     u.LastName,
     u.Email,
-    BIN\\\_TO\\\_UUID(m.MentorshipID) AS MentorshipID,
+    BIN_TO_UUID(m.MentorshipID) AS MentorshipID,
     sub.SubjectName,
     sub.Department
 FROM User u
@@ -73,7 +73,7 @@ JOIN Subject sub
 ### Proposed Index
 
 ```sql
-CREATE INDEX idx\\\_subject\\\_subjectname
+CREATE INDEX idx_subject_subjectname
     ON Subject(SubjectName);
 ```
 
