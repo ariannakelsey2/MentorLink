@@ -19,6 +19,9 @@ This query filters directly on the Type column. Without an index, MySQL performs
 
 After adding an index on Type, MySQL can quickly locate only the rows that match 'Internship', significantly reducing the number of rows scanned. This improves performance for users searching by opportunity category such as internships or research positions.
 
+### Query Output
+![Query Screenshot](images/screenshot-query.png)
+
 ### Performance Analysis (Before vs After Index)
 
 To evaluate performance, a sample Opportunity table was created in the sample format as the scraped dataset.
