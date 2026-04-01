@@ -29,6 +29,7 @@ MentorLink/
 │
 ├── sql/
 │   ├── schema/
+│   │   ├── master_creation.sql
 │   │   ├── user_entity.sql
 │   │   ├── subject_entity.sql
 │   │   ├── mentorship_entity.sql
@@ -37,16 +38,74 @@ MentorLink/
 │   │   └── goal_rating.sql
 │   │
 │   └── procedures/
+|       ├── arianna_dev/
+|       |    ├── add_user_subject_interest.sql
+|       |    ├── add_user_subject_interest_test.sql
+|       |    ├── remove_user_subject_interest.sql
+|       |    ├── remove_user_subject_interest_test.sql
+|       |    ├── reschedule_session.sql
+|       |    ├── reschedule_session_test.sql
+|       |    ├── submit_rating.sql
+|       |    └── submit_rating_test.sql
+|       ├── hanan_dev/
+|       |    ├── add_goal-to_mentorship.sql
+|       |    ├── mark_goal_achieved.sql
+|       |    ├── schedule_session.sql
+|       |    └── update_goal_description.sql
+|       ├── jordie_dev/
+|       |    ├── activate_mentorship.sql
+|       |    ├── change_user_password.sql
+|       |    ├── create_mentorship.sql
+|       |    ├── create_user.sql
+|       |    └── update_user_profile.sql
+│       └── mathieu_dev/
+|           ├── TEST_RESULTS.md
+|           ├── cancel_session.sql
+|           ├── count_achieved_goals.sql
+|           ├── end_mentorship.sql
+|           ├── get_mentorship_summary.sql
+|           ├── test_functions.py
+|           ├── test_user_functions.sql
+|           └── test_user_functions_sample_data.sql
+|   
 │
 ├── queries/
+│   ├── images
+│   ├── mentor_queries.sql
+│   ├── mentor_query_optimization.md
+│   ├── mentorship_session_queries.sql
+│   ├── mentorship_session_query_optimization.md
+│   ├── opportunities_queries.sql
+│   ├── opportunities_query_optimization.md
+│   ├── research_queries.sql
+│   └── research_query_optimization.md
 │
 ├── scraping/
 │   ├── faculty/
+|   |    ├── README
+|   |    ├── faculty_cleaned.csv
+|   |    ├── faculty_raw.json
+|   |    └── scrape_faculty.py
 │   ├── research/
+|   |    ├── research_cleaned.csv
+|   |    ├── research_raw.json
+|   |    └── scrape_research.py
 │   ├── opportunities/
+|   |    ├── opportunities_cleaned.csv
+|   |    ├── opportunities_raw.json
+|   |    └── scrape_opportunities.py
 │   └── courses/
+|   |    ├── README
+|   |    ├── courses_cleaned.csv
+|   |    ├── courses_raw.json
+|   |    ├── departments.json
+|   |    └── scrape_courses.py
 │
 ├── documents/
+│   ├── Accountability Document.md
+│   ├── Data Cleaning Document.md
+|
+├── Phase II Presentation.pdf
 │
 └── README.md
 ```
