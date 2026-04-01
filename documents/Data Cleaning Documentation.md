@@ -94,3 +94,36 @@ Wikipedia - Outline of Academic Disciplines
 	- `opportunities_raw.json`
 	- `opportunities_cleaned.csv`
 
+## Course Data Cleaning
+
+### Source
+USM Course Catalog - https://catalog.usm.maine.edu/content.php?catoid=19&navoid=1022&filter[item_type]=3&filter[only_active]=1&filter[3]=1&filter[cpage]=1
+
+### Raw Data Issues
+- Data spread across 16 paginated pages (approximately 100 courses per page)
+- Course names containing commas caused inconsistent CSV quoting
+- Department information not available on filtered course listing pages
+- No explicit department headers on individual course pages
+- Course prefixes needed mapping to full department names
+- URL-encoded pagination parameters required special handling
+
+### Cleaning Steps
+- Inspected USM catalog to identify HTML structure and pagination pattern
+- Detected total pages using URL-encoded pagination links (`filter%5Bcpage%5D=N`)
+- Built complete department mapping by iterating through all 16 catalog pages
+- For each page, located all course links matching `preview_course` pattern
+- Looked backward from each course link to find nearest department header (h2, h3, h4, strong, b tags)
+- Cleaned department names by removing institutional prefixes ("Department of", "School of", "College of") and parenthetical content
+- Extracted course prefix from course code (e.g., "ACC" from "ACC 105 - Show Me the Money")
+- Mapped each unique prefix to its corresponding department name
+- Implemented multi-page scraping with 1.5 second delay between requests to avoid rate limiting
+- Parsed courses using 4 fallback strategies: courseblocks, tables, generic containers, and course detail links
+- Filtered invalid entries including navigation links ("Course Search", "Registration") and pagination controls ("Forward 10")
+- Deduplicated 1,581 courses across all pages based on normalized course names
+- Applied `csv.QUOTE_ALL` parameter to ensure consistent quoting in all CSV rows
+- Saved raw course data to JSON before applying department mapping
+
+### Output
+- `courses_raw.json`
+- `courses_cleaned.csv`
+- `departments.json`
