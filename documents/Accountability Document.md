@@ -114,7 +114,7 @@
 		- mentor_queries.sql
 		- mentor_query_optimization.md
 	- Arianna
-		- opportunities_query.sql
+		- opportunities_queries.sql
 		- opportunities_query_optimization.md
 	- Mathieu
 		- mentorship_session_queries.sql
