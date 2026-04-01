@@ -95,11 +95,11 @@ MentorLink/
 |   |    ├── opportunities_raw.json
 |   |    └── scrape_opportunities.py
 │   └── courses/
-|   |    ├── README
-|   |    ├── courses_cleaned.csv
-|   |    ├── courses_raw.json
-|   |    ├── departments.json
-|   |    └── scrape_courses.py
+|        ├── README
+|        ├── courses_cleaned.csv
+|        ├── courses_raw.json
+|        ├── departments.json
+|        └── scrape_courses.py
 │
 ├── documents/
 │   ├── Accountability Document.md
