@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f1f5f9;
+}
+
+h1, h2 {
+  color: #1e293b;
+}
+
+.container {
+  padding: 30px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+button {
+  padding: 8px 14px;
+  margin: 5px;
+  border: none;
+  border-radius: 8px;
+  background: #0ea5e9;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0284c7;
+}
+
+input, select {
+  padding: 8px;
+  margin: 5px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.navbar {
+  background: #1e293b;
+  padding: 15px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-links button {
+  background: transparent;
+  color: white;
+  font-weight: bold;
+}
+
+.status {
+  padding: 5px 10px;
+  border-radius: 8px;
+  font-size: 12px;
+}
+
+.status-set {
+  background: #e2e8f0;
+}
+
+.status-achieved {
+  background: #22c55e;
+  color: white;
+}
+
+.brand {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+}
+
+.home-center {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.home-actions {
+  margin-top: 20px;
+}
+
+.logo {
+  display: block;
+  margin: 0 auto 20px auto;
+}
